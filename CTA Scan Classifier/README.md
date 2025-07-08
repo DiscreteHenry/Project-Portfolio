@@ -17,7 +17,7 @@ This project implements a deep learning pipeline to automatically assess the qua
 
 ```
 ├── train_cta_classifier.py       # Full training and evaluation pipeline
-├── predict_cta_score.py          # Inference script for predicting scan quality
+├── CTA Prediction Tool.ipynb          # Inference script for predicting scan quality
 ├── Labels.csv                    # Training labels (filename + quality score)
 ├── train.csv / val.csv           # Auto-generated splits
 ├── best_model.pt                 # Saved model weights
@@ -36,6 +36,7 @@ This project implements a deep learning pipeline to automatically assess the qua
 * opencv-python
 * pandas
 * tqdm
+* pathlib
 * scikit-learn
 * matplotlib
 
