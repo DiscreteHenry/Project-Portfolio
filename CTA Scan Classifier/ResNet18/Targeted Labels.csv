@@ -1,0 +1,43 @@
+filename,label
+PREFFIR-11001 (Cor CTA 55%).nii.gz,1
+PREFFIR-11013 (CTCA 65%).nii.gz,1
+PREFFIR-11014 (CorCTAAdapt  0.75  B26f  65%).nii.gz,4
+PREFFIR-11017 (CorCT 0.75 74%).nii.gz,1
+PREFFIR-11020 (CorCTA 0.75 B26f 65%).nii.gz,4
+PREFFIR-11021 (CorCTAAdapt  0.75  B26f  75%).nii.gz,4
+PREFFIR-11025 (Cor CTA 0.75 B26f 70%).nii.gz,5
+PREFFIR-11038 (CorCTA 0.75 B26f 65%).nii.gz,4
+PREFFIR-11044 (CorCTA 0.75 70%).nii.gz,1
+PREFFIR-11054 (CorCTAAdapt  0.6  B36f  70%).nii.gz,1
+PREFFIR-11063 (CorCTAAdapt  0.75  B26f  60%).nii.gz,4
+PREFFIR-11078 (CorCTAAdapt  0.75  B26f  65%).nii.gz,4
+PREFFIR-11083 (CorCTA  0.75  B26f  65%).nii.gz,4
+PREFFIR-11097 (CorCTAAdapt  0.75  B26f  75%).nii.gz,4
+PREFFIR-11108 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11135 (CorCTAAdapt  0.75  B26f  65%).nii.gz,4
+PREFFIR-11147 (CorCTAAdapt  0.75  B26f  60%).nii.gz,1
+PREFFIR-11165 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11204 (CorCTAAdapt 0.75 I31f 3 65%).nii.gz,4
+PREFFIR-11206 (CorCTAAdapt  0.75  B26f  240ms).nii.gz,1
+PREFFIR-11223 (CorCTAAdapt 0.75 B26f 65%).nii.gz,4
+PREFFIR-11242 (CorCTAAdapt  0.75  B26f  70%).nii.gz,2
+PREFFIR-11250 (CorCTAAdapt  0.75  I31f  3  65%).nii.gz,1
+PREFFIR-11251 (CorCTAAdapt 0.75 B26f 70%).nii.gz,4
+PREFFIR-11267 (CorCTAAdapt 0.75 B26f 75%).nii.gz,4
+PREFFIR-11268 (CorCTAAdapt  0.75  B26f  65%).nii.gz,4
+PREFFIR-11271 (CorCTAAdapt 0.75 B26f 275ms).nii.gz,4
+PREFFIR-16004 (CTA (30-65BPM)).nii.gz,1
+PREFFIR-16010 (CTA 65%).nii.gz,1
+PREFFIR-16017 (75% CTA).nii.gz,2
+PREFFIR-16018 (CTA (65-80BPM)).nii.gz,1
+PREFFIR-16035 (75% Phase CTA (30-65BPM)).nii.gz,1
+PREFFIR-16038 (75% Phase).nii.gz,1
+PREFFIR-16039 (CTA 65%).nii.gz,4
+PREFFIR-16042 (CTA (30-65BPM)).nii.gz,1
+PREFFIR-16050 (75% CTA).nii.gz,4
+PREFFIR-16054 (65% PHASE).nii.gz,1
+PREFFIR-16071 (RECONS)_4.nii.gz,1
+PREFFIR-16100 (65 &75%CTA (30-65BPM))_3.nii.gz,4
+PREFFIR-16102 (CTA 65 +75% (30-65BPM)).nii.gz,4
+PREFFIR-18008 (Snapshot Pulse).nii.gz,1
+PREFFIR-20004 (CorCTA 0.75 I30f 3 BestDiast 65 %).nii.gz,4
