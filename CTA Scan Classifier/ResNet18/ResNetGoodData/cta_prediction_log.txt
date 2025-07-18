@@ -1,0 +1,880 @@
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11001\20\PREFFIR-11001 (Cor CTA 55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11001\20\PREFFIR-11001 (Cor CTA 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11001\20\PREFFIR-11001 (Cor CTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11001\20\ds384\PREFFIR-11001 (Cor CTA 55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11001\20\ds384\PREFFIR-11001 (Cor CTA 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11001\20\ds384\PREFFIR-11001 (Cor CTA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11004\20\PREFFIR-11004 (Cor CTA 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11004\20\PREFFIR-11004 (CorCTA 55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11004\20\PREFFIR-11004 (CorCTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11004\20\ds384\PREFFIR-11004 (Cor CTA 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11004\20\ds384\PREFFIR-11004 (CorCTA 55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11004\20\ds384\PREFFIR-11004 (CorCTA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\PREFFIR-11005 (CorCTA 55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\PREFFIR-11005 (CorCTA 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\PREFFIR-11005 (CorCTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\PREFFIR-11005 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\PREFFIR-11005 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\PREFFIR-11005 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\ds384\PREFFIR-11005 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\ds384\PREFFIR-11005 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11005\20\ds384\PREFFIR-11005 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11008\20\PREFFIR-11008 (CorCTA 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11008\20\ds384\PREFFIR-11008 (CorCTA 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11009\20\PREFFIR-11009 (Cor CTA 55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11009\20\PREFFIR-11009 (Cor CTA 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11009\20\PREFFIR-11009 (Cor CTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11009\20\ds384\PREFFIR-11009 (Cor CTA 55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11009\20\ds384\PREFFIR-11009 (Cor CTA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11012\20\PREFFIR-11012 (CorCTA 0.75 B26f 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11012\20\PREFFIR-11012 (CorCTA 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11012\20\PREFFIR-11012 (CorCTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11012\20\PREFFIR-11012 (CorCTA 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11012\20\ds384\PREFFIR-11012 (CorCTA 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11012\20\ds384\PREFFIR-11012 (CorCTA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11012\20\ds384\PREFFIR-11012 (CorCTA 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11013\20\PREFFIR-11013 (CTCA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11013\20\PREFFIR-11013 (CTCA 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11013\20\PREFFIR-11013 (CTCA 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11013\20\ds384\PREFFIR-11013 (CTCA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11013\20\ds384\PREFFIR-11013 (CTCA 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11013\20\ds384\PREFFIR-11013 (CTCA 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11014\20\PREFFIR-11014 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11014\20\PREFFIR-11014 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11014\20\ds384\PREFFIR-11014 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11014\20\ds384\PREFFIR-11014 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11015\20\PREFFIR-11015 (CTCA 61%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11015\20\PREFFIR-11015 (CTCA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11015\20\PREFFIR-11015 (CTCA 68%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11015\20\ds384\PREFFIR-11015 (CTCA 61%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11015\20\ds384\PREFFIR-11015 (CTCA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11015\20\ds384\PREFFIR-11015 (CTCA 68%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11017\20\PREFFIR-11017 (CorCT 0.75 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11017\20\PREFFIR-11017 (CorCT 0.75 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11017\20\PREFFIR-11017 (CorCT 0.75 74%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11017\20\ds384\PREFFIR-11017 (CorCT 0.75 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11017\20\ds384\PREFFIR-11017 (CorCT 0.75 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11017\20\ds384\PREFFIR-11017 (CorCT 0.75 74%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11018\20\PREFFIR-11018 (CorCT 0.75 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11018\20\PREFFIR-11018 (CorCT 0.75 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11018\20\PREFFIR-11018 (CorCT 0.75 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11018\20\ds384\PREFFIR-11018 (CorCT 0.75 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11018\20\ds384\PREFFIR-11018 (CorCT 0.75 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11018\20\ds384\PREFFIR-11018 (CorCT 0.75 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11019\20\PREFFIR-11019 (CorCT 0.75 66%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11019\20\PREFFIR-11019 (CorCT 0.75 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11019\20\PREFFIR-11019 (CorCT 0.75 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11019\20\ds384\PREFFIR-11019 (CorCT 0.75 66%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11019\20\ds384\PREFFIR-11019 (CorCT 0.75 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11019\20\ds384\PREFFIR-11019 (CorCT 0.75 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11020\20\PREFFIR-11020 (CorCTA 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11020\20\PREFFIR-11020 (CorCTA 0.75 B26f 67%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11020\20\PREFFIR-11020 (CorCTA 0.75 B26f 69%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11020\20\ds384\PREFFIR-11020 (CorCTA 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11020\20\ds384\PREFFIR-11020 (CorCTA 0.75 B26f 67%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11020\20\ds384\PREFFIR-11020 (CorCTA 0.75 B26f 69%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11021\20\PREFFIR-11021 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11021\20\PREFFIR-11021 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11021\20\PREFFIR-11021 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11021\20\PREFFIR-11021 (Lung 1.0  B50f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11021\20\ds384\PREFFIR-11021 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11021\20\ds384\PREFFIR-11021 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11021\20\ds384\PREFFIR-11021 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11022\20\PREFFIR-11022 (Cor CTA 0.75 B26f 61%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11022\20\PREFFIR-11022 (Cor CTA 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11022\20\PREFFIR-11022 (Cor CTA 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11022\20\ds384\PREFFIR-11022 (Cor CTA 0.75 B26f 61%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11022\20\ds384\PREFFIR-11022 (Cor CTA 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11022\20\ds384\PREFFIR-11022 (Cor CTA 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11025\20\PREFFIR-11025 (Cor CTA 0.75 B26f 67%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11025\20\PREFFIR-11025 (Cor CTA 0.75 B26f 68%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11025\20\PREFFIR-11025 (Cor CTA 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11025\20\ds384\PREFFIR-11025 (Cor CTA 0.75 B26f 67%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11025\20\ds384\PREFFIR-11025 (Cor CTA 0.75 B26f 68%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11025\20\ds384\PREFFIR-11025 (Cor CTA 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11028\20\PREFFIR-11028 (CorCTA  0.75  B26f  55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11028\20\PREFFIR-11028 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11028\20\PREFFIR-11028 (CorCTA  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11028\20\ds384\PREFFIR-11028 (CorCTA  0.75  B26f  55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11028\20\ds384\PREFFIR-11028 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11028\20\ds384\PREFFIR-11028 (CorCTA  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11029\20\PREFFIR-11029 (CorrCTA 0.75 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11029\20\PREFFIR-11029 (CorrCTA 0.75 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11029\20\PREFFIR-11029 (CorrCTA 0.75 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11029\20\ds384\PREFFIR-11029 (CorrCTA 0.75 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11029\20\ds384\PREFFIR-11029 (CorrCTA 0.75 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11029\20\ds384\PREFFIR-11029 (CorrCTA 0.75 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11032\20\PREFFIR-11032 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11032\20\PREFFIR-11032 (CorCTA  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11032\20\PREFFIR-11032 (CorCTA  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11032\20\ds384\PREFFIR-11032 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11032\20\ds384\PREFFIR-11032 (CorCTA  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11032\20\ds384\PREFFIR-11032 (CorCTA  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11034\20\PREFFIR-11034 (CorCTA 0.75 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11034\20\PREFFIR-11034 (CorCTA 0.75 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11034\20\PREFFIR-11034 (CorCTA 0.75 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11034\20\ds384\PREFFIR-11034 (CorCTA 0.75 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11034\20\ds384\PREFFIR-11034 (CorCTA 0.75 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11034\20\ds384\PREFFIR-11034 (CorCTA 0.75 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11035\20\PREFFIR-11035 (CorCTA 0.75 55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11035\20\PREFFIR-11035 (CorCTA 0.75 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11035\20\ds384\PREFFIR-11035 (CorCTA 0.75 55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11035\20\ds384\PREFFIR-11035 (CorCTA 0.75 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11037\20\PREFFIR-11037 (CorCTA  0.75  B26f  788ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11037\20\PREFFIR-11037 (CorCTA  0.75  B26f  900ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11037\20\PREFFIR-11037 (CorCTA  0.75  B50f  900ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11037\20\PREFFIR-11037 (CorCTA  0.75  B60f  900ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11037\20\ds384\PREFFIR-11037 (CorCTA  0.75  B26f  788ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11038\20\PREFFIR-11038 (CorCTA 0.75 B26f 50%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11038\20\PREFFIR-11038 (CorCTA 0.75 B26f 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11038\20\PREFFIR-11038 (CorCTA 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11038\20\ds384\PREFFIR-11038 (CorCTA 0.75 B26f 50%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11038\20\ds384\PREFFIR-11038 (CorCTA 0.75 B26f 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11038\20\ds384\PREFFIR-11038 (CorCTA 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11039\20\PREFFIR-11039 (CorCTAAdapt 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11039\20\PREFFIR-11039 (CorCTAAdapt 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11039\20\PREFFIR-11039 (CorCTAAdapt 0.75 B26f 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11039\20\ds384\PREFFIR-11039 (CorCTAAdapt 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11039\20\ds384\PREFFIR-11039 (CorCTAAdapt 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11039\20\ds384\PREFFIR-11039 (CorCTAAdapt 0.75 B26f 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11040\20\PREFFIR-11040 (CorCTA 0.75 B26f 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11040\20\PREFFIR-11040 (CorCTA 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11040\20\PREFFIR-11040 (CorCTA 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11040\20\ds384\PREFFIR-11040 (CorCTA 0.75 B26f 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11040\20\ds384\PREFFIR-11040 (CorCTA 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11040\20\ds384\PREFFIR-11040 (CorCTA 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11041\20\PREFFIR-11041 (CorCTA 0.75 B26f 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11041\20\PREFFIR-11041 (CorCTA 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11041\20\PREFFIR-11041 (CorCTA 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11041\20\ds384\PREFFIR-11041 (CorCTA 0.75 B26f 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11041\20\ds384\PREFFIR-11041 (CorCTA 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11041\20\ds384\PREFFIR-11041 (CorCTA 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11042\20\PREFFIR-11042 (CorCTA  0.75  B26f  55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11042\20\PREFFIR-11042 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11042\20\PREFFIR-11042 (CorCTA  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11042\20\ds384\PREFFIR-11042 (CorCTA  0.75  B26f  55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11042\20\ds384\PREFFIR-11042 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11042\20\ds384\PREFFIR-11042 (CorCTA  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11043\20\PREFFIR-11043 (CorCTA Adapt 0.75 B26f 67%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11043\20\PREFFIR-11043 (CorCTA Adapt 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11043\20\PREFFIR-11043 (CorCTA Adapt 0.75 B26f 73%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11043\20\ds384\PREFFIR-11043 (CorCTA Adapt 0.75 B26f 67%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11043\20\ds384\PREFFIR-11043 (CorCTA Adapt 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11043\20\ds384\PREFFIR-11043 (CorCTA Adapt 0.75 B26f 73%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\PREFFIR-11044 (CorCTA 0.75 50%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\PREFFIR-11044 (CorCTA 0.75 55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\PREFFIR-11044 (CorCTA 0.75 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\PREFFIR-11044 (CorCTA 0.75 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\PREFFIR-11044 (CorCTA 0.75 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\ds384\PREFFIR-11044 (CorCTA 0.75 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\ds384\PREFFIR-11044 (CorCTA 0.75 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11044\20\ds384\PREFFIR-11044 (CorCTA 0.75 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11047\20\PREFFIR-11047 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11047\20\PREFFIR-11047 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11047\20\PREFFIR-11047 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11047\20\ds384\PREFFIR-11047 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11047\20\ds384\PREFFIR-11047 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11047\20\ds384\PREFFIR-11047 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11049\20\PREFFIR-11049 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11049\20\PREFFIR-11049 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11049\20\PREFFIR-11049 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11049\20\ds384\PREFFIR-11049 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11049\20\ds384\PREFFIR-11049 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11049\20\ds384\PREFFIR-11049 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11054\20\PREFFIR-11054 (CorCTAAdapt  0.6  B36f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11054\20\PREFFIR-11054 (CorCTAAdapt  1.0  B50f  72%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11054\20\ds384\PREFFIR-11054 (CorCTAAdapt  0.6  B36f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11057\20\PREFFIR-11057 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11057\20\PREFFIR-11057 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11057\20\PREFFIR-11057 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11057\20\ds384\PREFFIR-11057 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11057\20\ds384\PREFFIR-11057 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11057\20\ds384\PREFFIR-11057 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11058\20\PREFFIR-11058 (CorCTAAdapt  0.75  B26f  67%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11058\20\PREFFIR-11058 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11058\20\PREFFIR-11058 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11058\20\ds384\PREFFIR-11058 (CorCTAAdapt  0.75  B26f  67%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11058\20\ds384\PREFFIR-11058 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11058\20\ds384\PREFFIR-11058 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11059\20\PREFFIR-11059 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11059\20\PREFFIR-11059 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11059\20\PREFFIR-11059 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11059\20\ds384\PREFFIR-11059 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11059\20\ds384\PREFFIR-11059 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11059\20\ds384\PREFFIR-11059 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11060\20\PREFFIR-11060 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11060\20\PREFFIR-11060 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11060\20\PREFFIR-11060 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11060\20\ds384\PREFFIR-11060 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11060\20\ds384\PREFFIR-11060 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11060\20\ds384\PREFFIR-11060 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11061\20\PREFFIR-11061 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11061\20\PREFFIR-11061 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11061\20\PREFFIR-11061 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11061\20\ds384\PREFFIR-11061 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11061\20\ds384\PREFFIR-11061 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11061\20\ds384\PREFFIR-11061 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11062\20\PREFFIR-11062 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11062\20\PREFFIR-11062 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11062\20\PREFFIR-11062 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11062\20\ds384\PREFFIR-11062 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11062\20\ds384\PREFFIR-11062 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11062\20\ds384\PREFFIR-11062 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11063\20\PREFFIR-11063 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11063\20\PREFFIR-11063 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11063\20\PREFFIR-11063 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11063\20\ds384\PREFFIR-11063 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11063\20\ds384\PREFFIR-11063 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11063\20\ds384\PREFFIR-11063 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11065\20\PREFFIR-11065 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11065\20\PREFFIR-11065 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11065\20\PREFFIR-11065 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11065\20\ds384\PREFFIR-11065 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11065\20\ds384\PREFFIR-11065 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11065\20\ds384\PREFFIR-11065 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11068\20\PREFFIR-11068 (CorCTA  0.75  B26f  50%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11068\20\PREFFIR-11068 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11068\20\PREFFIR-11068 (CorCTA  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11068\20\ds384\PREFFIR-11068 (CorCTA  0.75  B26f  50%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11068\20\ds384\PREFFIR-11068 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11068\20\ds384\PREFFIR-11068 (CorCTA  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11071\20\PREFFIR-11071 (Cor CTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11071\20\PREFFIR-11071 (Cor CTA 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11071\20\PREFFIR-11071 (Cor CTA 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11071\20\ds384\PREFFIR-11071 (Cor CTA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11071\20\ds384\PREFFIR-11071 (Cor CTA 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11071\20\ds384\PREFFIR-11071 (Cor CTA 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\PREFFIR-11072 (Cor CTA 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\PREFFIR-11072 (Cor CTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\PREFFIR-11072 (Cor CTA 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\PREFFIR-11072 (CorCTAAdapt  0.75  B26f  60% (ammended)).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\PREFFIR-11072 (CorCTAAdapt  0.75  B26f  65% (ammended)).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\PREFFIR-11072 (CorCTAAdapt  0.75  B26f  70% (ammended)).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\ds384\PREFFIR-11072 (Cor CTA 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\ds384\PREFFIR-11072 (CorCTAAdapt  0.75  B26f  60% (ammended))_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11072\20\ds384\PREFFIR-11072 (CorCTAAdapt  0.75  B26f  70% (ammended))_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11074\20\PREFFIR-11074 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11074\20\PREFFIR-11074 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11074\20\PREFFIR-11074 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11074\20\ds384\PREFFIR-11074 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11074\20\ds384\PREFFIR-11074 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11074\20\ds384\PREFFIR-11074 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11075\20\PREFFIR-11075 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11075\20\PREFFIR-11075 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11075\20\PREFFIR-11075 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11075\20\ds384\PREFFIR-11075 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11075\20\ds384\PREFFIR-11075 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11075\20\ds384\PREFFIR-11075 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11076\20\PREFFIR-11076 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11076\20\PREFFIR-11076 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11076\20\PREFFIR-11076 (CorCTAAdapt  0.75  B26f  70%)_1.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11076\20\ds384\PREFFIR-11076 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11076\20\ds384\PREFFIR-11076 (CorCTAAdapt  0.75  B26f  70%)_1_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11076\20\ds384\PREFFIR-11076 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11077\20\PREFFIR-11077 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11077\20\PREFFIR-11077 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11077\20\PREFFIR-11077 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11078\20\PREFFIR-11078 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11078\20\PREFFIR-11078 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11078\20\PREFFIR-11078 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11078\20\ds384\PREFFIR-11078 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11078\20\ds384\PREFFIR-11078 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11078\20\ds384\PREFFIR-11078 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11079\20\PREFFIR-11079 (Cor CTA 62%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11079\20\PREFFIR-11079 (Cor CTA 64%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11079\20\PREFFIR-11079 (Cor CTA 66%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11079\20\ds384\PREFFIR-11079 (Cor CTA 62%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11079\20\ds384\PREFFIR-11079 (Cor CTA 64%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11079\20\ds384\PREFFIR-11079 (Cor CTA 66%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11083\20\PREFFIR-11083 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11083\20\PREFFIR-11083 (CorCTA  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11083\20\PREFFIR-11083 (CorCTA  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11083\20\ds384\PREFFIR-11083 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11083\20\ds384\PREFFIR-11083 (CorCTA  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11083\20\ds384\PREFFIR-11083 (CorCTA  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\PREFFIR-11086 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\PREFFIR-11086 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\PREFFIR-11086 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\PREFFIR-11086 (CorCTAAdapt 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\PREFFIR-11086 (CorCTAAdapt 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\PREFFIR-11086 (CorCTAAdapt 0.75 B26f 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\ds384\PREFFIR-11086 (CorCTAAdapt 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\ds384\PREFFIR-11086 (CorCTAAdapt 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11086\20\ds384\PREFFIR-11086 (CorCTAAdapt 0.75 B26f 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11089\20\PREFFIR-11089 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11089\20\PREFFIR-11089 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11089\20\PREFFIR-11089 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11089\20\ds384\PREFFIR-11089 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11089\20\ds384\PREFFIR-11089 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11089\20\ds384\PREFFIR-11089 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11090\20\PREFFIR-11090 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11090\20\PREFFIR-11090 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11090\20\PREFFIR-11090 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11090\20\ds384\PREFFIR-11090 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11090\20\ds384\PREFFIR-11090 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11090\20\ds384\PREFFIR-11090 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11092\20\PREFFIR-11092 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11092\20\PREFFIR-11092 (CorCTA  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11092\20\PREFFIR-11092 (CorCTA  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11092\20\ds384\PREFFIR-11092 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11092\20\ds384\PREFFIR-11092 (CorCTA  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11092\20\ds384\PREFFIR-11092 (CorCTA  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11093\20\PREFFIR-11093 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11093\20\PREFFIR-11093 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11093\20\PREFFIR-11093 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11093\20\ds384\PREFFIR-11093 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11093\20\ds384\PREFFIR-11093 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11093\20\ds384\PREFFIR-11093 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11094\20\PREFFIR-11094 (CorCTA  0.75  B26f  55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11094\20\PREFFIR-11094 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11094\20\PREFFIR-11094 (CorCTA  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11094\20\PREFFIR-11094 (CorCTA  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11094\20\ds384\PREFFIR-11094 (CorCTA  0.75  B26f  55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11094\20\ds384\PREFFIR-11094 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11094\20\ds384\PREFFIR-11094 (CorCTA  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11095\20\PREFFIR-11095 (CorCTAAdapt  0.75  B26f  55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11095\20\PREFFIR-11095 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11095\20\PREFFIR-11095 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11095\20\ds384\PREFFIR-11095 (CorCTAAdapt  0.75  B26f  55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11095\20\ds384\PREFFIR-11095 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11095\20\ds384\PREFFIR-11095 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11096\20\PREFFIR-11096 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11096\20\PREFFIR-11096 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11096\20\PREFFIR-11096 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11096\20\ds384\PREFFIR-11096 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11096\20\ds384\PREFFIR-11096 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11096\20\ds384\PREFFIR-11096 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11097\20\PREFFIR-11097 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11097\20\PREFFIR-11097 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11097\20\PREFFIR-11097 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11097\20\ds384\PREFFIR-11097 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11097\20\ds384\PREFFIR-11097 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11097\20\ds384\PREFFIR-11097 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11098\20\PREFFIR-11098 (Cor CTA 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11098\20\PREFFIR-11098 (Cor CTA 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11098\20\PREFFIR-11098 (Cor CTA 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11098\20\ds384\PREFFIR-11098 (Cor CTA 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11098\20\ds384\PREFFIR-11098 (Cor CTA 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11098\20\ds384\PREFFIR-11098 (Cor CTA 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11102\20\PREFFIR-11102 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11102\20\PREFFIR-11102 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11102\20\PREFFIR-11102 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11102\20\ds384\PREFFIR-11102 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11102\20\ds384\PREFFIR-11102 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11102\20\ds384\PREFFIR-11102 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11103\20\PREFFIR-11103 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11103\20\PREFFIR-11103 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11103\20\PREFFIR-11103 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11103\20\ds384\PREFFIR-11103 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11103\20\ds384\PREFFIR-11103 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11103\20\ds384\PREFFIR-11103 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11105\20\PREFFIR-11105 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11105\20\PREFFIR-11105 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11105\20\PREFFIR-11105 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11105\20\ds384\PREFFIR-11105 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11105\20\ds384\PREFFIR-11105 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11105\20\ds384\PREFFIR-11105 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11106\20\PREFFIR-11106 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11106\20\PREFFIR-11106 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11106\20\PREFFIR-11106 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11106\20\ds384\PREFFIR-11106 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11106\20\ds384\PREFFIR-11106 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11106\20\ds384\PREFFIR-11106 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11108\20\PREFFIR-11108 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11108\20\PREFFIR-11108 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11108\20\PREFFIR-11108 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11108\20\ds384\PREFFIR-11108 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11108\20\ds384\PREFFIR-11108 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11108\20\ds384\PREFFIR-11108 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11110\20\PREFFIR-11110 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11110\20\PREFFIR-11110 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11110\20\PREFFIR-11110 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11110\20\ds384\PREFFIR-11110 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11110\20\ds384\PREFFIR-11110 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11110\20\ds384\PREFFIR-11110 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11112\20\PREFFIR-11112 (CorCTA  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11112\20\PREFFIR-11112 (CorCTA  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11112\20\PREFFIR-11112 (CorCTA  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11112\20\ds384\PREFFIR-11112 (CorCTA  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11112\20\ds384\PREFFIR-11112 (CorCTA  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11112\20\ds384\PREFFIR-11112 (CorCTA  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11115\20\PREFFIR-11115 (Cor CTAAdapt 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11115\20\PREFFIR-11115 (Cor CTAAdapt 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11115\20\PREFFIR-11115 (Cor CTAAdapt 0.75 B26f 75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11115\20\ds384\PREFFIR-11115 (Cor CTAAdapt 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11115\20\ds384\PREFFIR-11115 (Cor CTAAdapt 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11115\20\ds384\PREFFIR-11115 (Cor CTAAdapt 0.75 B26f 75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11116\20\PREFFIR-11116 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11116\20\PREFFIR-11116 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11116\20\PREFFIR-11116 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11116\20\ds384\PREFFIR-11116 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11116\20\ds384\PREFFIR-11116 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11116\20\ds384\PREFFIR-11116 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11119\20\PREFFIR-11119 (CorCTAAdapt  0.75  B26f  55%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11119\20\PREFFIR-11119 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11119\20\PREFFIR-11119 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11119\20\ds384\PREFFIR-11119 (CorCTAAdapt  0.75  B26f  55%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11119\20\ds384\PREFFIR-11119 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11119\20\ds384\PREFFIR-11119 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11122\20\PREFFIR-11122 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11122\20\PREFFIR-11122 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11122\20\PREFFIR-11122 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11122\20\ds384\PREFFIR-11122 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11122\20\ds384\PREFFIR-11122 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11122\20\ds384\PREFFIR-11122 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11129\20\PREFFIR-11129 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11129\20\PREFFIR-11129 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11129\20\PREFFIR-11129 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11129\20\ds384\PREFFIR-11129 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11129\20\ds384\PREFFIR-11129 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11129\20\ds384\PREFFIR-11129 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11130\20\PREFFIR-11130 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11130\20\PREFFIR-11130 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11130\20\PREFFIR-11130 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11130\20\ds384\PREFFIR-11130 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11130\20\ds384\PREFFIR-11130 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11130\20\ds384\PREFFIR-11130 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11131\20\PREFFIR-11131 (CorCTA 0.75 B26f 60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11131\20\PREFFIR-11131 (CorCTA 0.75 B26f 65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11131\20\PREFFIR-11131 (CorCTA 0.75 B26f 70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11131\20\ds384\PREFFIR-11131 (CorCTA 0.75 B26f 60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11131\20\ds384\PREFFIR-11131 (CorCTA 0.75 B26f 65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11131\20\ds384\PREFFIR-11131 (CorCTA 0.75 B26f 70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11134\20\PREFFIR-11134 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11134\20\PREFFIR-11134 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11134\20\PREFFIR-11134 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11134\20\ds384\PREFFIR-11134 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11134\20\ds384\PREFFIR-11134 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11134\20\ds384\PREFFIR-11134 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11135\20\PREFFIR-11135 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11135\20\PREFFIR-11135 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11135\20\PREFFIR-11135 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11135\20\ds384\PREFFIR-11135 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11135\20\ds384\PREFFIR-11135 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11135\20\ds384\PREFFIR-11135 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11136\20\PREFFIR-11136 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11136\20\PREFFIR-11136 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11136\20\PREFFIR-11136 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11136\20\ds384\PREFFIR-11136 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11136\20\ds384\PREFFIR-11136 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11136\20\ds384\PREFFIR-11136 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11138\20\PREFFIR-11138 (CorCTAAdapt  0.75  B26f  40%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11138\20\PREFFIR-11138 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11138\20\PREFFIR-11138 (CorCTAAdapt  0.75  B26f  80%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11138\20\ds384\PREFFIR-11138 (CorCTAAdapt  0.75  B26f  40%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11138\20\ds384\PREFFIR-11138 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11138\20\ds384\PREFFIR-11138 (CorCTAAdapt  0.75  B26f  80%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11141\20\PREFFIR-11141 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11141\20\PREFFIR-11141 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11141\20\PREFFIR-11141 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11141\20\ds384\PREFFIR-11141 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11141\20\ds384\PREFFIR-11141 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11141\20\ds384\PREFFIR-11141 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11145\20\PREFFIR-11145 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11145\20\PREFFIR-11145 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11145\20\PREFFIR-11145 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11145\20\ds384\PREFFIR-11145 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11145\20\ds384\PREFFIR-11145 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11145\20\ds384\PREFFIR-11145 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11146\20\PREFFIR-11146 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11146\20\PREFFIR-11146 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11146\20\PREFFIR-11146 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11146\20\ds384\PREFFIR-11146 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11146\20\ds384\PREFFIR-11146 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11146\20\ds384\PREFFIR-11146 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11147\20\PREFFIR-11147 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11147\20\PREFFIR-11147 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11147\20\PREFFIR-11147 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11147\20\PREFFIR-11147 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11147\20\ds384\PREFFIR-11147 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11147\20\ds384\PREFFIR-11147 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11147\20\ds384\PREFFIR-11147 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11148\20\PREFFIR-11148 (CorCTAAdapt  0.75  B26f  260ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11148\20\PREFFIR-11148 (CorCTAAdapt  0.75  B26f  280ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11148\20\PREFFIR-11148 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11148\20\PREFFIR-11148 (CorCTAAdapt  0.75  B26f  360ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11148\20\ds384\PREFFIR-11148 (CorCTAAdapt  0.75  B26f  260ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11148\20\ds384\PREFFIR-11148 (CorCTAAdapt  0.75  B26f  280ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11148\20\ds384\PREFFIR-11148 (CorCTAAdapt  0.75  B26f  300ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11151\20\PREFFIR-11151 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11151\20\PREFFIR-11151 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11151\20\PREFFIR-11151 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11151\20\ds384\PREFFIR-11151 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11151\20\ds384\PREFFIR-11151 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11151\20\ds384\PREFFIR-11151 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11155\20\PREFFIR-11155 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11155\20\PREFFIR-11155 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11155\20\PREFFIR-11155 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11155\20\ds384\PREFFIR-11155 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11155\20\ds384\PREFFIR-11155 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11155\20\ds384\PREFFIR-11155 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11158\20\PREFFIR-11158 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11158\20\PREFFIR-11158 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11158\20\PREFFIR-11158 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11158\20\ds384\PREFFIR-11158 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11158\20\ds384\PREFFIR-11158 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11158\20\ds384\PREFFIR-11158 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11160\20\PREFFIR-11160 (CorCTAAdapt  0.75  B26f  62%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11160\20\PREFFIR-11160 (CorCTAAdapt  0.75  B26f  67%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11160\20\PREFFIR-11160 (CorCTAAdapt  0.75  B26f  72%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11160\20\ds384\PREFFIR-11160 (CorCTAAdapt  0.75  B26f  62%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11160\20\ds384\PREFFIR-11160 (CorCTAAdapt  0.75  B26f  67%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11160\20\ds384\PREFFIR-11160 (CorCTAAdapt  0.75  B26f  72%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11161\20\PREFFIR-11161 (CorCTAAdapt  0.75  B26f  66%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11161\20\PREFFIR-11161 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11161\20\PREFFIR-11161 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11161\20\ds384\PREFFIR-11161 (CorCTAAdapt  0.75  B26f  66%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11161\20\ds384\PREFFIR-11161 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11161\20\ds384\PREFFIR-11161 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11162\20\PREFFIR-11162 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11162\20\PREFFIR-11162 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11162\20\PREFFIR-11162 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11162\20\ds384\PREFFIR-11162 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11162\20\ds384\PREFFIR-11162 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11162\20\ds384\PREFFIR-11162 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11164\20\PREFFIR-11164 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11164\20\PREFFIR-11164 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11164\20\PREFFIR-11164 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11164\20\ds384\PREFFIR-11164 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11164\20\ds384\PREFFIR-11164 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11164\20\ds384\PREFFIR-11164 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11165\20\PREFFIR-11165 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11165\20\PREFFIR-11165 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11165\20\PREFFIR-11165 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11165\20\ds384\PREFFIR-11165 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11165\20\ds384\PREFFIR-11165 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11165\20\ds384\PREFFIR-11165 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11166\20\PREFFIR-11166 (CorCTAAdapt  0.75  B26f  240ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11166\20\PREFFIR-11166 (CorCTAAdapt  0.75  B26f  260ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11166\20\PREFFIR-11166 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11166\20\ds384\PREFFIR-11166 (CorCTAAdapt  0.75  B26f  240ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11166\20\ds384\PREFFIR-11166 (CorCTAAdapt  0.75  B26f  260ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11166\20\ds384\PREFFIR-11166 (CorCTAAdapt  0.75  B26f  300ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11168\20\PREFFIR-11168 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11168\20\PREFFIR-11168 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11168\20\PREFFIR-11168 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11168\20\ds384\PREFFIR-11168 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11168\20\ds384\PREFFIR-11168 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11168\20\ds384\PREFFIR-11168 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11170\20\PREFFIR-11170 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11170\20\PREFFIR-11170 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11170\20\PREFFIR-11170 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11170\20\ds384\PREFFIR-11170 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11170\20\ds384\PREFFIR-11170 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11170\20\ds384\PREFFIR-11170 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11172\20\PREFFIR-11172 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11172\20\PREFFIR-11172 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11172\20\PREFFIR-11172 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11172\20\ds384\PREFFIR-11172 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11172\20\ds384\PREFFIR-11172 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11172\20\ds384\PREFFIR-11172 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11173\20\PREFFIR-11173 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11173\20\PREFFIR-11173 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11173\20\PREFFIR-11173 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11173\20\ds384\PREFFIR-11173 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11173\20\ds384\PREFFIR-11173 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11173\20\ds384\PREFFIR-11173 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11174\20\PREFFIR-11174 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11174\20\PREFFIR-11174 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11174\20\PREFFIR-11174 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11174\20\ds384\PREFFIR-11174 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11174\20\ds384\PREFFIR-11174 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11174\20\ds384\PREFFIR-11174 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11175\20\PREFFIR-11175 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11175\20\PREFFIR-11175 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11175\20\PREFFIR-11175 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11175\20\ds384\PREFFIR-11175 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11175\20\ds384\PREFFIR-11175 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11175\20\ds384\PREFFIR-11175 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11176\20\PREFFIR-11176 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11176\20\PREFFIR-11176 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11176\20\PREFFIR-11176 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11176\20\ds384\PREFFIR-11176 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11176\20\ds384\PREFFIR-11176 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11176\20\ds384\PREFFIR-11176 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11181\20\PREFFIR-11181 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11181\20\PREFFIR-11181 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11181\20\PREFFIR-11181 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11181\20\ds384\PREFFIR-11181 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11181\20\ds384\PREFFIR-11181 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11181\20\ds384\PREFFIR-11181 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11182\20\PREFFIR-11182 (CorCTAAdapt  0.75  B26f  67%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11182\20\PREFFIR-11182 (CorCTAAdapt  0.75  B26f  67%)_1.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11182\20\PREFFIR-11182 (CorCTAAdapt  0.75  B26f  68%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11183\20\PREFFIR-11183 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11183\20\PREFFIR-11183 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11183\20\PREFFIR-11183 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11183\20\ds384\PREFFIR-11183 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11183\20\ds384\PREFFIR-11183 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11183\20\ds384\PREFFIR-11183 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11185\20\PREFFIR-11185 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11185\20\PREFFIR-11185 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11185\20\PREFFIR-11185 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11186\20\PREFFIR-11186 (CorCTAAdapt  0.75  B26f  66%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11186\20\PREFFIR-11186 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11186\20\PREFFIR-11186 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11187\20\PREFFIR-11187 (CorCTAAdapt  0.75  B26f  260ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11187\20\PREFFIR-11187 (CorCTAAdapt  0.75  B26f  260ms)_1.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11187\20\PREFFIR-11187 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11193\20\PREFFIR-11193 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11193\20\PREFFIR-11193 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11193\20\PREFFIR-11193 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11193\20\ds384\PREFFIR-11193 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11193\20\ds384\PREFFIR-11193 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11193\20\ds384\PREFFIR-11193 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11194\20\PREFFIR-11194 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11194\20\PREFFIR-11194 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11194\20\PREFFIR-11194 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11195\20\PREFFIR-11195 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11195\20\PREFFIR-11195 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11195\20\PREFFIR-11195 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11196\20\PREFFIR-11196 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11196\20\PREFFIR-11196 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11196\20\PREFFIR-11196 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11197\20\PREFFIR-11197 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11197\20\PREFFIR-11197 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11197\20\PREFFIR-11197 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11197\20\ds384\PREFFIR-11197 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11197\20\ds384\PREFFIR-11197 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11197\20\ds384\PREFFIR-11197 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11198\20\PREFFIR-11198 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11198\20\PREFFIR-11198 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11198\20\PREFFIR-11198 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11198\20\ds384\PREFFIR-11198 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11198\20\ds384\PREFFIR-11198 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11198\20\ds384\PREFFIR-11198 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11200\20\PREFFIR-11200 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11200\20\PREFFIR-11200 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11200\20\PREFFIR-11200 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11200\20\ds384\PREFFIR-11200 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11200\20\ds384\PREFFIR-11200 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11200\20\ds384\PREFFIR-11200 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11204\20\PREFFIR-11204 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11204\20\PREFFIR-11204 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11204\20\PREFFIR-11204 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11204\20\PREFFIR-11204 (CorCTAAdapt  0.75  I31f  3  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11204\20\ds384\PREFFIR-11204 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11204\20\ds384\PREFFIR-11204 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11204\20\ds384\PREFFIR-11204 (CorCTAAdapt  0.75  I31f  3  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11206\20\PREFFIR-11206 (CorCTAAdapt  0.75  B26f  170ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11206\20\PREFFIR-11206 (CorCTAAdapt  0.75  B26f  240ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11206\20\PREFFIR-11206 (CorCTAAdapt  0.75  B26f  270ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11206\20\PREFFIR-11206 (CorCTAAdapt  0.75  B26f  299ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11206\20\ds384\PREFFIR-11206 (CorCTAAdapt  0.75  B26f  170ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11206\20\ds384\PREFFIR-11206 (CorCTAAdapt  0.75  B26f  240ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11206\20\ds384\PREFFIR-11206 (CorCTAAdapt  0.75  B26f  270ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11209\20\PREFFIR-11209 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11209\20\PREFFIR-11209 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11209\20\PREFFIR-11209 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11209\20\ds384\PREFFIR-11209 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11209\20\ds384\PREFFIR-11209 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11209\20\ds384\PREFFIR-11209 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11210\20\PREFFIR-11210 (ECG CorCTAAdapt  0.75  B26f  250ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11210\20\PREFFIR-11210 (ECG CorCTAAdapt  0.75  B26f  270ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11210\20\PREFFIR-11210 (ECG CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11210\20\ds384\PREFFIR-11210 (ECG CorCTAAdapt  0.75  B26f  250ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11210\20\ds384\PREFFIR-11210 (ECG CorCTAAdapt  0.75  B26f  270ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11210\20\ds384\PREFFIR-11210 (ECG CorCTAAdapt  0.75  B26f  300ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11212\20\PREFFIR-11212 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11212\20\PREFFIR-11212 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11212\20\PREFFIR-11212 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11212\20\ds384\PREFFIR-11212 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11212\20\ds384\PREFFIR-11212 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11212\20\ds384\PREFFIR-11212 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11215\20\PREFFIR-11215 (CorCTAAdapt  0.75  B26f  250ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11215\20\PREFFIR-11215 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11215\20\PREFFIR-11215 (CorCTAAdapt  0.75  B26f  330ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11215\20\ds384\PREFFIR-11215 (CorCTAAdapt  0.75  B26f  250ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11215\20\ds384\PREFFIR-11215 (CorCTAAdapt  0.75  B26f  300ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11215\20\ds384\PREFFIR-11215 (CorCTAAdapt  0.75  B26f  330ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11216\20\PREFFIR-11216 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11216\20\PREFFIR-11216 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11216\20\PREFFIR-11216 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11216\20\ds384\PREFFIR-11216 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11216\20\ds384\PREFFIR-11216 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11216\20\ds384\PREFFIR-11216 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11218\20\PREFFIR-11218 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11218\20\PREFFIR-11218 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11218\20\PREFFIR-11218 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11218\20\ds384\PREFFIR-11218 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11218\20\ds384\PREFFIR-11218 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11218\20\ds384\PREFFIR-11218 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11221\20\PREFFIR-11221 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11221\20\PREFFIR-11221 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11221\20\PREFFIR-11221 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11221\20\ds384\PREFFIR-11221 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11221\20\ds384\PREFFIR-11221 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11221\20\ds384\PREFFIR-11221 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11222\20\PREFFIR-11222 (CorCTAAdapt  0.75  B26f  66%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11222\20\PREFFIR-11222 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11222\20\PREFFIR-11222 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11222\20\ds384\PREFFIR-11222 (CorCTAAdapt  0.75  B26f  66%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11222\20\ds384\PREFFIR-11222 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11222\20\ds384\PREFFIR-11222 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11223\20\PREFFIR-11223 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11223\20\PREFFIR-11223 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11223\20\PREFFIR-11223 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11223\20\ds384\PREFFIR-11223 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11223\20\ds384\PREFFIR-11223 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11223\20\ds384\PREFFIR-11223 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11224\20\PREFFIR-11224 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11224\20\PREFFIR-11224 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11224\20\PREFFIR-11224 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11224\20\ds384\PREFFIR-11224 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11224\20\ds384\PREFFIR-11224 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11224\20\ds384\PREFFIR-11224 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11225\20\PREFFIR-11225 (CorCTAAdapt  0.75  B26f  200ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11225\20\PREFFIR-11225 (CorCTAAdapt  0.75  B26f  250ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11225\20\PREFFIR-11225 (CorCTAAdapt  0.75  B26f  275ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11225\20\PREFFIR-11225 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11225\20\ds384\PREFFIR-11225 (CorCTAAdapt  0.75  B26f  200ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11225\20\ds384\PREFFIR-11225 (CorCTAAdapt  0.75  B26f  250ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11225\20\ds384\PREFFIR-11225 (CorCTAAdapt  0.75  B26f  275ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11229\20\PREFFIR-11229 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11229\20\PREFFIR-11229 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11229\20\PREFFIR-11229 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11229\20\ds384\PREFFIR-11229 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11229\20\ds384\PREFFIR-11229 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11229\20\ds384\PREFFIR-11229 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11230\20\PREFFIR-11230 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11230\20\PREFFIR-11230 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11230\20\PREFFIR-11230 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11230\20\ds384\PREFFIR-11230 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11230\20\ds384\PREFFIR-11230 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11230\20\ds384\PREFFIR-11230 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11234\20\PREFFIR-11234 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11234\20\PREFFIR-11234 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11234\20\PREFFIR-11234 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11234\20\PREFFIR-11234 (CorCTAAdapt  0.75  B26f  75%)_1.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11234\20\ds384\PREFFIR-11234 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11234\20\ds384\PREFFIR-11234 (CorCTAAdapt  0.75  B26f  75%)_1_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11234\20\ds384\PREFFIR-11234 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11235\20\PREFFIR-11235 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11235\20\PREFFIR-11235 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11235\20\PREFFIR-11235 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11236\20\PREFFIR-11236 (CorCTAAdapt  0.75  B26f  67%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11236\20\PREFFIR-11236 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11236\20\PREFFIR-11236 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11236\20\ds384\PREFFIR-11236 (CorCTAAdapt  0.75  B26f  67%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11236\20\ds384\PREFFIR-11236 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11236\20\ds384\PREFFIR-11236 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11241\20\PREFFIR-11241 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11241\20\PREFFIR-11241 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11241\20\PREFFIR-11241 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11241\20\ds384\PREFFIR-11241 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11241\20\ds384\PREFFIR-11241 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11241\20\ds384\PREFFIR-11241 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11242\20\PREFFIR-11242 (CorCTAAdapt  0.75  B26f  66%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11242\20\PREFFIR-11242 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11242\20\PREFFIR-11242 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11242\20\ds384\PREFFIR-11242 (CorCTAAdapt  0.75  B26f  66%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11242\20\ds384\PREFFIR-11242 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11242\20\ds384\PREFFIR-11242 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11243\20\PREFFIR-11243 (CorCTAAdapt  0.75  B26f  260ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11243\20\PREFFIR-11243 (CorCTAAdapt  0.75  B26f  260ms)_1.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11243\20\PREFFIR-11243 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11243\20\ds384\PREFFIR-11243 (CorCTAAdapt  0.75  B26f  260ms)_1_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11243\20\ds384\PREFFIR-11243 (CorCTAAdapt  0.75  B26f  260ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11243\20\ds384\PREFFIR-11243 (CorCTAAdapt  0.75  B26f  300ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11246\20\PREFFIR-11246 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11246\20\PREFFIR-11246 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11246\20\PREFFIR-11246 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11246\20\ds384\PREFFIR-11246 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11246\20\ds384\PREFFIR-11246 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11246\20\ds384\PREFFIR-11246 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11247\20\PREFFIR-11247 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11247\20\PREFFIR-11247 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11247\20\PREFFIR-11247 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11247\20\ds384\PREFFIR-11247 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11247\20\ds384\PREFFIR-11247 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11247\20\ds384\PREFFIR-11247 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11248\20\PREFFIR-11248 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11248\20\PREFFIR-11248 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11248\20\PREFFIR-11248 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11248\20\ds384\PREFFIR-11248 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11248\20\ds384\PREFFIR-11248 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11248\20\ds384\PREFFIR-11248 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11249\20\PREFFIR-11249 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11249\20\PREFFIR-11249 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11249\20\PREFFIR-11249 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11249\20\ds384\PREFFIR-11249 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11249\20\ds384\PREFFIR-11249 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11249\20\ds384\PREFFIR-11249 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11250\20\PREFFIR-11250 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11250\20\PREFFIR-11250 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11250\20\PREFFIR-11250 (CorCTAAdapt  0.75  I31f  3  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11250\20\ds384\PREFFIR-11250 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11250\20\ds384\PREFFIR-11250 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11250\20\ds384\PREFFIR-11250 (CorCTAAdapt  0.75  I31f  3  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11251\20\PREFFIR-11251 (CorCTAAdapt  0.75  B26f  60%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11251\20\PREFFIR-11251 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11251\20\PREFFIR-11251 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11251\20\ds384\PREFFIR-11251 (CorCTAAdapt  0.75  B26f  60%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11251\20\ds384\PREFFIR-11251 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11251\20\ds384\PREFFIR-11251 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11255\20\PREFFIR-11255 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11255\20\PREFFIR-11255 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11255\20\PREFFIR-11255 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11255\20\ds384\PREFFIR-11255 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11255\20\ds384\PREFFIR-11255 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11255\20\ds384\PREFFIR-11255 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11257\20\PREFFIR-11257 (CorCTAAdapt  0.75  B26f  250ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11257\20\PREFFIR-11257 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11257\20\PREFFIR-11257 (CorCTAAdapt  0.75  B26f  330ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11257\20\ds384\PREFFIR-11257 (CorCTAAdapt  0.75  B26f  250ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11257\20\ds384\PREFFIR-11257 (CorCTAAdapt  0.75  B26f  300ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11257\20\ds384\PREFFIR-11257 (CorCTAAdapt  0.75  B26f  330ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11258\20\PREFFIR-11258 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11258\20\PREFFIR-11258 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11258\20\PREFFIR-11258 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11258\20\ds384\PREFFIR-11258 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11258\20\ds384\PREFFIR-11258 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11258\20\ds384\PREFFIR-11258 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11260\20\PREFFIR-11260 (CorCTAAdapt  0.75  B26f  66%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11260\20\PREFFIR-11260 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11260\20\PREFFIR-11260 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11260\20\ds384\PREFFIR-11260 (CorCTAAdapt  0.75  B26f  66%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11260\20\ds384\PREFFIR-11260 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11260\20\ds384\PREFFIR-11260 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11261\20\PREFFIR-11261 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11261\20\PREFFIR-11261 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11261\20\PREFFIR-11261 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11261\20\ds384\PREFFIR-11261 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11261\20\ds384\PREFFIR-11261 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11261\20\ds384\PREFFIR-11261 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11263\20\PREFFIR-11263 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11263\20\PREFFIR-11263 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11263\20\PREFFIR-11263 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11263\20\ds384\PREFFIR-11263 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11263\20\ds384\PREFFIR-11263 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11263\20\ds384\PREFFIR-11263 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11264\20\PREFFIR-11264 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11264\20\PREFFIR-11264 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11264\20\PREFFIR-11264 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11264\20\ds384\PREFFIR-11264 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11264\20\ds384\PREFFIR-11264 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11264\20\ds384\PREFFIR-11264 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11267\20\PREFFIR-11267 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11267\20\PREFFIR-11267 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11267\20\PREFFIR-11267 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11267\20\ds384\PREFFIR-11267 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11267\20\ds384\PREFFIR-11267 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11267\20\ds384\PREFFIR-11267 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11268\20\PREFFIR-11268 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11268\20\PREFFIR-11268 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11268\20\PREFFIR-11268 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11268\20\ds384\PREFFIR-11268 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11268\20\ds384\PREFFIR-11268 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11268\20\ds384\PREFFIR-11268 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11269\20\PREFFIR-11269 (CorCTAAdapt  0.75  B26f  65%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11269\20\PREFFIR-11269 (CorCTAAdapt  0.75  B26f  70%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11269\20\PREFFIR-11269 (CorCTAAdapt  0.75  B26f  75%).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11269\20\ds384\PREFFIR-11269 (CorCTAAdapt  0.75  B26f  65%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11269\20\ds384\PREFFIR-11269 (CorCTAAdapt  0.75  B26f  70%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11269\20\ds384\PREFFIR-11269 (CorCTAAdapt  0.75  B26f  75%)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11271\20\PREFFIR-11271 (CorCTAAdapt  0.75  B26f  275ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11271\20\PREFFIR-11271 (CorCTAAdapt  0.75  B26f  300ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11271\20\PREFFIR-11271 (CorCTAAdapt  0.75  B26f  325ms).nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11271\20\ds384\PREFFIR-11271 (CorCTAAdapt  0.75  B26f  275ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11271\20\ds384\PREFFIR-11271 (CorCTAAdapt  0.75  B26f  300ms)_clean.nii.gz -> 0.50
+SUCCESS: C:\Users\HenryLi\Downloads\Scans\11271\20\ds384\PREFFIR-11271 (CorCTAAdapt  0.75  B26f  325ms)_clean.nii.gz -> 0.50
