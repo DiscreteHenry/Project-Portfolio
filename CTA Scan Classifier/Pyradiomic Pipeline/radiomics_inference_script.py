@@ -1,9 +1,11 @@
-
 import SimpleITK as sitk
 import numpy as np
 import pandas as pd
 import joblib
 from radiomics import featureextractor
+import os
+from pathlib import Path
+from tqdm import tqdm
 
 def extract_12_slices(image):
     arr = sitk.GetArrayFromImage(image)
@@ -52,9 +54,57 @@ def predict_scan_quality(scan_path, model_path):
     model = joblib.load(model_path)
 
     X = pd.DataFrame([features])
+    if hasattr(model, 'feature_names_in_'):
+        X = X.reindex(columns=model.feature_names_in_, fill_value=0)
+
     pred = model.predict(X)
-    print(f"Predicted quality (1 = usable, 0 = not usable): {pred[0]}")
-    return pred[0]
+    prob = model.predict_proba(X)[0][1]
+    print(f"Predicted quality: {pred[0]} (Probability diagnostic: {prob:.3f})")
+    return pred[0], prob
+
+def batch_predict_folder(scan_dir, model_path, output_csv="inference_results.csv"):
+    extractor = featureextractor.RadiomicsFeatureExtractor()
+    extractor.enableAllFeatures()
+    extractor.settings['label'] = 1
+    extractor.settings['correctMask'] = False
+    extractor.settings['force2D'] = True
+
+    model = joblib.load(model_path)
+    results = []
+
+    scan_dir = Path(scan_dir)
+    scan_files = list(scan_dir.rglob("*.nii")) + list(scan_dir.rglob("*.nii.gz"))
+
+    for scan_path in tqdm(scan_files, desc="Processing scans"):
+        try:
+            image = sitk.ReadImage(str(scan_path))
+            features = extract_features_from_image(image, extractor)
+            X = pd.DataFrame([features])
+            if hasattr(model, 'feature_names_in_'):
+                X = X.reindex(columns=model.feature_names_in_, fill_value=0)
+
+            pred = model.predict(X)[0]
+            prob = model.predict_proba(X)[0][1]
+            results.append({
+                "filename": scan_path.name,
+                "prediction": int(pred),
+                "probability": round(prob, 4)
+            })
+            print(f"✅ {scan_path.name}: pred={pred}, prob={prob:.3f}")
+        except Exception as e:
+            print(f"❌ Failed on {scan_path.name}: {e}")
+
+    df_out = pd.DataFrame(results)
+    df_out.to_csv(output_csv, index=False)
+    print(f"✅ Results saved to {output_csv}")
 
 # Example usage:
-# predict_scan_quality('path_to_new_scan.nii.gz', 'trained_radiomics_model.pkl')
+# Single scan prediction:
+# predict_scan_quality(r"C:\Users\HenryLi\Downloads\Scans\example_scan.nii.gz", r"C:\Users\HenryLi\Downloads\Radiomic Model\trained_radiomics_model.pkl")
+
+# Batch prediction for a folder:
+batch_predict_folder(
+    r"C:\Users\HenryLi\Downloads\Scans",
+    r"C:\Users\HenryLi\Downloads\Radiomic Model\trained_radiomics_model.pkl",
+    output_csv="C:/Users/HenryLi/Downloads/scan_predictions.csv"
+)
