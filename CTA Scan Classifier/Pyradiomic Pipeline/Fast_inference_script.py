@@ -13,6 +13,10 @@ def get_fast_extractor():
     extractor.disableAllFeatures()
     extractor.enableFeatureClassByName('firstorder')
     extractor.enableFeatureClassByName('glcm')
+    extractor.enableFeatureClassByName('glrlm')
+    extractor.enableFeatureClassByName('glszm')
+    extractor.enableFeatureClassByName('ngtdm')
+    extractor.enableFeatureClassByName('shape2D')
     # Uncomment if needed:
     # extractor.enableFeatureClassByName('glrlm')
     # extractor.enableFeatureClassByName('glszm')

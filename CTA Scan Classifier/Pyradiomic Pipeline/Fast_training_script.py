@@ -17,7 +17,11 @@ def get_fast_extractor():
     extractor = featureextractor.RadiomicsFeatureExtractor()
     extractor.disableAllFeatures()
     extractor.enableFeatureClassByName('firstorder')
+    extractor.enableFeatureClassByName('glrlm')
+    extractor.enableFeatureClassByName('glszm')
     extractor.enableFeatureClassByName('glcm')
+    extractor.enableFeatureClassByName('ngtdm')
+    extractor.enableFeatureClassByName('shape2D')
     extractor.settings['label'] = 1
     extractor.settings['correctMask'] = False
     extractor.settings['force2D'] = True
