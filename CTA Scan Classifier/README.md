@@ -1,6 +1,6 @@
 # CTA Scan Quality Classifier
 
-This project implements a deep learning pipeline to automatically assess the quality of CTA (CT Angiography) scans. The model predicts a score from 1 to 5 based on visual quality metrics such as sharpness, motion artifacts, contrast, and field of view (FOV).
+This project implements a deep learning pipeline to automatically assess the quality of CTA (CT Angiography) scans. The model predicts a score of either a 0 or 1 based on visual quality metrics such as sharpness, motion artifacts, contrast, and field of view (FOV).
 
 ---
 
