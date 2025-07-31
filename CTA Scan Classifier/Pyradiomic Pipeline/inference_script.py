@@ -7,19 +7,19 @@ from pathlib import Path
 from tqdm import tqdm
 from joblib import Parallel, delayed
 
-# ---------- CONFIGURABLE EXTRACTOR (FAST VERSION) ----------
+# ---------- CONFIGURABLE EXTRACTOR  ----------
+#Add or remove feature classes as needed. adding = more features, but slower.
 def get_fast_extractor():
     extractor = featureextractor.RadiomicsFeatureExtractor()
     extractor.disableAllFeatures()
     extractor.enableFeatureClassByName('firstorder')
     extractor.enableFeatureClassByName('glcm')
-    extractor.enableFeatureClassByName('glrlm')
     extractor.enableFeatureClassByName('glszm')
     extractor.enableFeatureClassByName('ngtdm')
     extractor.enableFeatureClassByName('shape2D')
     # Uncomment if needed:
-    # extractor.enableFeatureClassByName('glrlm')
-    # extractor.enableFeatureClassByName('glszm')
+    extractor.enableFeatureClassByName('glrlm')
+    extractor.enableFeatureClassByName('gldm')
     extractor.settings['label'] = 1
     extractor.settings['correctMask'] = False
     extractor.settings['force2D'] = True
@@ -93,7 +93,7 @@ def process_scan(scan_path, extractor, model, feature_names):
         }
 
 # ---------- BATCH PARALLEL INFERENCE ----------
-def batch_predict_folder(scan_dir, model_path, output_csv="fast_inference_results.csv", n_jobs=-1):
+def batch_predict_folder(scan_dir, model_path, output_csv="scan_predictions.csv", n_jobs=-1):
     scan_dir = Path(scan_dir)
     scan_files = list(scan_dir.rglob("*.nii")) + list(scan_dir.rglob("*.nii.gz"))
 
@@ -110,14 +110,15 @@ def batch_predict_folder(scan_dir, model_path, output_csv="fast_inference_result
 
     df_out = pd.DataFrame(results)
     df_out.to_csv(output_csv, index=False)
-    print(f"✅ Saved results to {output_csv}")
+    print(f" Saved results to {output_csv}")
 
 
 # ---------- EXAMPLE USAGE ----------
+#Please change directories to whatever you have. 
 if __name__ == "__main__":
     batch_predict_folder(
-        scan_dir=r"C:\Users\HenryLi\Downloads\Radiomic Model\Non evaluable",
-        model_path=r"C:\Users\HenryLi\Downloads\Radiomic Model\trained_fast_radiomics_model.pkl",
-        output_csv="C:/Users/HenryLi/Downloads/Radiomic Model/Results Processing/Fast__nonuseable_scan_predictions.csv",
+        scan_dir=r"C:\Users\HenryLi\Downloads\Radiomic Model\Non evaluable", #Where your scans are.
+        model_path=r"C:\Users\HenryLi\Downloads\Radiomic Model\trained_radiomics_model.pkl", #Where your model is.
+        output_csv="C:/Users/HenryLi/Downloads/Radiomic Model/Results Processing/scan_predictions.csv", #Where you want to save results to view.
         n_jobs=4  # Use all available cores. Change to -1 if you want to use all cores.
     )

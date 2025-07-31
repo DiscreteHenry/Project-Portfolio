@@ -138,7 +138,7 @@ def extract_features_from_folder(scan_folder, label_csv, output_csv, max_workers
 # ---------- PATHS ----------
 scan_dir = "C:/Users/HenryLi/Downloads/Radiomic Model"
 label_csv = "C:/Users/HenryLi/Downloads/Radiomic Model/Radiomic Labels.csv"
-output_csv = "radiomics_features_fast.csv"
+output_csv = "full_radiomics_features.csv"
 
 # ---------- RUN FEATURE EXTRACTION ----------
 features_df = extract_features_from_folder(scan_dir, label_csv, output_csv)
@@ -157,7 +157,7 @@ y = df["label"]
 X_train, X_val, y_train, y_val = train_test_split(X, y, stratify=y, test_size=0.2, random_state=42)
 clf = RandomForestClassifier(n_estimators=100, random_state=42)
 clf.fit(X_train, y_train)
-joblib.dump(clf, "trained_fast_radiomics_model.pkl")
+joblib.dump(clf, "trained_radiomics_model.pkl")
 
 # ---------- METRICS ----------
 preds = clf.predict(X_val)
@@ -196,4 +196,4 @@ for slice_name, feature_list in grouped.items():
         rows.append({"slice": slice_name, "feature": fname, "importance": score})
 
 pd.DataFrame(rows).to_csv("fast_feature_importance_by_slice.csv", index=False)
-print("Feature importance saved to 'fast_feature_importance_by_slice.csv'")
+print("Feature importance saved to 'feature_importance_by_slice.csv'")
