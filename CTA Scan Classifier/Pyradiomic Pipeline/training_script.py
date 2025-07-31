@@ -136,6 +136,7 @@ def extract_features_from_folder(scan_folder, label_csv, output_csv, max_workers
     return pd.DataFrame(results)
 
 # ---------- PATHS ----------
+#Please change directories to whatever you have. 
 scan_dir = "C:/Users/HenryLi/Downloads/Radiomic Model"
 label_csv = "C:/Users/HenryLi/Downloads/Radiomic Model/Radiomic Labels.csv"
 output_csv = "full_radiomics_features.csv"
@@ -195,5 +196,56 @@ for slice_name, feature_list in grouped.items():
     for fname, score in sorted(feature_list, key=lambda x: -x[1]):
         rows.append({"slice": slice_name, "feature": fname, "importance": score})
 
-pd.DataFrame(rows).to_csv("fast_feature_importance_by_slice.csv", index=False)
+pd.DataFrame(rows).to_csv("feature_importance_by_slice.csv", index=False)
 print("Feature importance saved to 'feature_importance_by_slice.csv'")
+
+# ---------- REORGANIZE FEATURE CSV ----------
+# I've added this section to clean up the CSV output so that the features are organized by slice number.
+def reorganize_feature_csv(input_file, output_file):
+    from collections import defaultdict
+    import csv
+
+    with open(input_file, 'r') as infile, open(output_file, 'w', newline='') as outfile:
+        reader = csv.reader(infile)
+        header = next(reader)
+
+        # Extract base feature names from slice0
+        base_feature_names = []
+        for col in header:
+            if col.startswith("slice0_"):
+                base_feature_names.append(col.split("_", 1)[1])
+
+        writer = csv.writer(outfile)
+        writer.writerow(['Filename', 'Slice number', 'label'] + base_feature_names)
+
+        for data_row in reader:
+            label_value = data_row[-2]
+            filename_value = data_row[-1]
+
+            slice_groups = defaultdict(list)
+            for idx, col_name in enumerate(header[:-2]):
+                if '_' not in col_name:
+                    continue
+                parts = col_name.split('_', 1)
+                if parts[0].startswith('slice'):
+                    try:
+                        slice_num = int(parts[0][5:])
+                        feature_name = parts[1]
+                        slice_groups[slice_num].append((feature_name, data_row[idx]))
+                    except (ValueError, IndexError):
+                        continue
+
+            for slice_num in sorted(slice_groups.keys()):
+                slice_dict = dict(slice_groups[slice_num])
+                row = [
+                    filename_value,
+                    slice_num,
+                    label_value,
+                ]
+                row.extend(slice_dict.get(feat, "") for feat in base_feature_names)
+                writer.writerow(row)
+
+    print(f"Reorganized CSV saved to: {output_file}")
+
+# Call reorganization
+reorganize_feature_csv("full_radiomics_features.csv", "reorganized_full_radiomics_features.csv")

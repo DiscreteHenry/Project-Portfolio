@@ -114,11 +114,11 @@ def batch_predict_folder(scan_dir, model_path, output_csv="scan_predictions.csv"
 
 
 # ---------- EXAMPLE USAGE ----------
-#Please change directories to whatever you have. 
+#Please change File paths to whatever you have. 
 if __name__ == "__main__":
     batch_predict_folder(
         scan_dir=r"C:\Users\HenryLi\Downloads\Radiomic Model\Non evaluable", #Where your scans are.
         model_path=r"C:\Users\HenryLi\Downloads\Radiomic Model\trained_radiomics_model.pkl", #Where your model is.
         output_csv="C:/Users/HenryLi/Downloads/Radiomic Model/Results Processing/scan_predictions.csv", #Where you want to save results to view.
-        n_jobs=4  # Use all available cores. Change to -1 if you want to use all cores.
+        n_jobs=4  # Currently using 4 available CPU cores. Change to -1 if you want to use all cores for faster processing.
     )
