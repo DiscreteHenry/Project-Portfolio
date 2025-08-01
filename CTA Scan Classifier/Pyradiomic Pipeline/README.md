@@ -2,6 +2,12 @@
 
  The code base implements a machine learning pipeline to automatically assess the visual quality of CTA (CT Angiography) scans using handcrafted radiomic features extracted from multiple 2D slices per scan. The classifier predicts whether a scan is usable (1) or unusable (0) based on attributes like sharpness, contrast, motion artifacts, and field of view (FOV).
 
+Current Model Performance
+Random Forest:
+ Validation Accuracy 0.84
+LogisticRegression:
+ Validation Accuracy 0.80
+
 ---
 
 ## Project Overview
