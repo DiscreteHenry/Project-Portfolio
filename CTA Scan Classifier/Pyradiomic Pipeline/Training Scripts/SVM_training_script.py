@@ -9,10 +9,10 @@ import csv
 import threading
 from tqdm import tqdm
 import joblib
-from sklearn.pipeline import make_pipeline
+from sklearn.svm import SVC
 from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import make_pipeline
 from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 
 # ---------- FEATURE EXTRACTOR ----------
@@ -142,7 +142,7 @@ def extract_features_from_folder(scan_folder, label_csv, output_csv, max_workers
 #Please change directories to whatever you have. 
 scan_dir = "C:/Users/HenryLi/Downloads/Radiomic Model" 
 label_csv = "C:/Users/HenryLi/Downloads/Radiomic Model/Radiomic Labels.csv"
-output_csv = "full_LogisticRegression_features.csv"
+output_csv = "full_SVM_features.csv"
 
 # ---------- RUN FEATURE EXTRACTION ----------
 features_df = extract_features_from_folder(scan_dir, label_csv, output_csv)
@@ -159,14 +159,9 @@ X = df.drop(columns=["label", "filename"])
 y = df["label"]
 
 X_train, X_val, y_train, y_val = train_test_split(X, y, stratify=y, test_size=0.2, random_state=42)
-#added feature scaling
-clf = make_pipeline(
-    StandardScaler(),
-    LogisticRegression(max_iter=1000, random_state=42)
-)
-
+clf = make_pipeline(StandardScaler(), SVC(kernel='rbf', probability=True, random_state=42))
 clf.fit(X_train, y_train)
-joblib.dump(clf, "trained_LogisticRegression_model.pkl")
+joblib.dump(clf, "trained_SVM_model.pkl")
 
 # ---------- METRICS ----------
 preds = clf.predict(X_val)
@@ -204,8 +199,8 @@ for slice_name, feature_list in grouped.items():
     for fname, score in sorted(feature_list, key=lambda x: -x[1]):
         rows.append({"slice": slice_name, "feature": fname, "importance": score})
 
-pd.DataFrame(rows).to_csv("LogisticRegression_feature_importance.csv", index=False)
-print("Feature importance saved to 'LogisticRegression_feature_importance.csv'")
+pd.DataFrame(rows).to_csv("SVM_feature_importance.csv", index=False)
+print("Feature importance saved to 'SVM_feature_importance.csv'")
 
 # ---------- REORGANIZE FEATURE CSV ----------
 # I've added this section to clean up the CSV output so that the features are organized by slice number.
@@ -256,4 +251,4 @@ def reorganize_feature_csv(input_file, output_file):
     print(f"Reorganized CSV saved to: {output_file}")
 
 # Call reorganization
-reorganize_feature_csv("full_LogisticRegression_features.csv", "reorganized_full_LogisticRegression_features.csv")
+reorganize_feature_csv("full_SVM_features.csv", "reorganized_full_SVM_features.csv")
