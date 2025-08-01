@@ -18,13 +18,13 @@
 
 ```
 ├── Training Scripts/
-│   └── training_script.py                      # Full feature extraction and training pipeline
+│   └── (model)_training_script.py              # Full feature extraction and training pipeline
 │
 ├── Inference Scripts/
-│   └── inference_script.py                     # Inference script for new scans
+│   └── (model)_inference_script.py             # Inference script for new scans
 │
 ├── Classifier Models/
-│   └── trained_radiomics_model.pkl             # Trained model for inference
+│   └── trained_(model)_model.pkl               # Trained model for inference
 │
 ├── Extracted Features CSVs/
 │   ├── full_(model)_features.csv               # Raw extracted radiomic features
