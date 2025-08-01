@@ -28,11 +28,11 @@
 │
 ├── Extracted Features CSVs/
 │   ├── full_(model)_features.csv               # Raw extracted radiomic features
-│   ├── reorganized_(model)_features.csv        # Long-format per-slice features
-│   └── feature_importance_by_slice.csv         # Feature importance by slice
+│   ├── reorganized_full_(model)_features.csv   # Long-format per-slice features
+│   └── (model)_feature_importance.csv          # Feature importance by slice
 │
 ├── Radiomic Labels.csv                         # Ground truth labels
-└── README.md                                    # Project documentation
+└── README.md                                   # Project documentation
 ```
 
 ---
