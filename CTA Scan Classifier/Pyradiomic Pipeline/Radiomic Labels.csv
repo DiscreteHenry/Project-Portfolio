@@ -1,199 +1,465 @@
 filename,label
-HongKong-645.nii.gz,1
-PRC-08346124-CT.nii.gz,1
-PRC-9349393-CT (CT 0-90 - 10 frames Volume Sequence by NominalPercentageOfCardiacPhase 0).nii.gz,1
-PRC-11773385-CT (SS-Freeze 75%FBJ7).nii.gz,1
+HongKong-645.nii.gz,0
+PRC-08346124-CT.nii.gz,0
+PRC-9349393-CT (CT 0-90 - 10 frames Volume Sequence by NominalPercentageOfCardiacPhase 0).nii.gz,0
+PRC-9349393-CT (CT Temporal 70% 70 SSF - 3 frames Volume Sequence by NominalPercentageOfCardiacPhase 0).nii.gz,0
+PRC-9349393-CT (PROSPECTIVE).nii.gz,0
+PRC-9349393-CT (SS-Freeze 70% - Original Series 302).nii.gz,0
+PRC-11773385-CT (CTCA (ASIR 70)).nii.gz,0
+PRC-11773385-CT (SS-Freeze 75%FBJ7).nii.gz,0
+PREFFIR-11001 (Cor CTA 55%).nii.gz,0
+PREFFIR-11001 (Cor CTA 60%).nii.gz,0
+PREFFIR-11001 (Cor CTA 65%).nii.gz,0
+PREFFIR-11003 (CorCTA 60%).nii.gz,0
+PREFFIR-11003 (CorCTA 65%).nii.gz,0
+PREFFIR-11003 (CorCTA 70%).nii.gz,0
+PREFFIR-11003 (CorCTAAdapt 0.75 B_49G2).nii.gz,0
+PREFFIR-11003 (CorCTAAdapt 0.75 B_F37R).nii.gz,0
+PREFFIR-11003 (CorCTAAdapt 0.75 B_VNNM).nii.gz,0
+PREFFIR-11015 (CorCTAAdapt  0.75 _4WSH 70%).nii.gz,0
+PREFFIR-11015 (CorCTAAdapt  0.75 _CR2X 75%).nii.gz,0
+PREFFIR-11015 (CorCTAAdapt  0.75 _CY5Y 67%).nii.gz,0
+PREFFIR-11015 (CTCA 61%).nii.gz,0
+PREFFIR-11015 (CTCA 65%).nii.gz,0
+PREFFIR-11015 (CTCA 68%).nii.gz,0
+PREFFIR-11038 (CorCTA 0.75 B26f 50%).nii.gz,0
+PREFFIR-11038 (CorCTA 0.75 B26f 60%).nii.gz,0
+PREFFIR-11038 (CorCTA 0.75 B26f 65%).nii.gz,0
+PREFFIR-11044 (CorCTA 0.75 50%).nii.gz,0
+PREFFIR-11044 (CorCTA 0.75 55%).nii.gz,0
+PREFFIR-11044 (CorCTA 0.75 60%).nii.gz,0
+PREFFIR-11044 (CorCTA 0.75 65%).nii.gz,0
+PREFFIR-11044 (CorCTA 0.75 70%).nii.gz,0
+PREFFIR-11071 (Cor CTA 65%).nii.gz,0
+PREFFIR-11071 (Cor CTA 70%).nii.gz,0
+PREFFIR-11071 (Cor CTA 75%).nii.gz,0
+PREFFIR-11071 (CorCTAAdapt  0.75 _4WSH 70%).nii.gz,0
+PREFFIR-11071 (CorCTAAdapt  0.75 _CR2X 75%).nii.gz,0
+PREFFIR-11071 (CorCTAAdapt  0.75 _SHFZ 65%).nii.gz,0
+PREFFIR-11077 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,0
+PREFFIR-11077 (CorCTAAdapt  0.75_MVOV 70%).nii.gz,0
+PREFFIR-11077 (CorCTAAdapt  0.75_PIIT 65%).nii.gz,0
+PREFFIR-11118 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,0
+PREFFIR-11118 (CorCTAAdapt  0.75_MVOV 70%).nii.gz,0
+PREFFIR-11118 (CorCTAAdapt  0.75_PIIT 65%).nii.gz,0
+PREFFIR-11173 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,0
+PREFFIR-11173 (CorCTAAdapt  0.75_MVOV 70%).nii.gz,0
+PREFFIR-11173 (CorCTAAdapt  0.75_PIIT 65%).nii.gz,0
+PREFFIR-11258 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,0
+PREFFIR-11258 (CorCTAAdapt  0.75_MVOV 70%).nii.gz,0
+PREFFIR-11258 (CorCTAAdapt  0.75_PIIT 65%).nii.gz,0
+PREFFIR-12148 (65%).nii.gz,0
+PREFFIR-12148 (75%).nii.gz,0
+PREFFIR-13002 (SnapShot Pulse).nii.gz,0
+PREFFIR-13007.nii.gz,0
+PREFFIR-13012 (SnapShot Pulse).nii.gz,0
+PREFFIR-13012 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13013 (SnapShot Pulse).nii.gz,0
+PREFFIR-13013 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13014 (SnapShot Pulse).nii.gz,0
+PREFFIR-13014 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13032 (SnapShot Pulse).nii.gz,0
+PREFFIR-13032 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13035 (SnapShot Pulse).nii.gz,0
+PREFFIR-13035 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13041 (SnapShot Pulse).nii.gz,0
+PREFFIR-13041 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13096 (SnapShot Pulse).nii.gz,0
+PREFFIR-13096 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13133 (SnapShot Pulse).nii.gz,0
+PREFFIR-13133 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13160 (SnapShot Pulse).nii.gz,0
+PREFFIR-13160 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-13169 (SnapShot Pulse).nii.gz,0
+PREFFIR-13169 (SnapShot Pulse_1).nii.gz,0
+PREFFIR-14077 (Cardiac CTCA  0.6_MVOV 70%).nii.gz,0
+PREFFIR-14077 (Cardiac CTCA ZOOME_QPOZ 60%).nii.gz,0
+PREFFIR-14118 (CTCA  0.6  B26f  70%).nii.gz,0
+PREFFIR-14118 (Zoomed Cardiac CTC_J2YV 70%).nii.gz,0
+PREFFIR-16017 (65% CTA).nii.gz,0
+PREFFIR-16017 (65-75 cta).nii.gz,0
+PREFFIR-16017 (75% CTA).nii.gz,0
+PREFFIR-16017 (CTA (30-65BPM)).nii.gz,0
+PREFFIR-16055 (45% PHASE).nii.gz,0
+PREFFIR-16055 (65%).nii.gz,0
+PREFFIR-16055 (75%).nii.gz,0
+PREFFIR-16055 (CTA (65-80BPM)).nii.gz,0
+PREFFIR-16071 (60%).nii.gz,0
+PREFFIR-16071 (65%).nii.gz,0
+PREFFIR-16071 (75%).nii.gz,0
+PREFFIR-16071 (CTA (30-65BPM)).nii.gz,0
+RAPID-11067 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,0
+RAPID-11067 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,0
+RAPID-11067 (796ms 0.00s Cardia 0.5 CE 796ms).nii.gz,0
+RAPID-11111 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,0
+RAPID-11111 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,0
+RAPID-11111 (750ms 0.00s Cardiac 0.5 CE 750ms).nii.gz,0
+RAPID-11133 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,0
+RAPID-11133 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,0
+RAPID-11133 (820ms 0.00s Cardiac 0.5 CE 820ms).nii.gz,0
+RAPID-11139 (711ms 0.00s Cardiac 0.5 CE 711ms).nii.gz,0
+RAPID-11139 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,0
+RAPID-11139 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,0
+RAPID-11150 (452ms 0.00s Cardiac 0.5 CE 452ms).nii.gz,0
+RAPID-11150 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,0
+RAPID-11150 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,0
+RAPID-13016.nii.gz,0
+RAPID-13034 (CT - 2 frames Volume Sequence by NominalPercentageOfCardiacPhase Series 2).nii.gz,0
+RAPID-13034 (CT - 2 frames Volume Sequence by NominalPercentageOfCardiacPhase Series1).nii.gz,0
+RAPID-13048 (CT phase - 6 frames Volume Sequence by NominalPercentageOfCardiacPhase).nii.gz,0
+RAPID-13048 (SS Pulse).nii.gz,0
+RAPID-13111 (smartscore).nii.gz,0
+RAPID-13111 (SS Pulse HI-Res).nii.gz,0
+RAPID-13124 (smartscore).nii.gz,0
+RAPID-13124 (SS Pulse).nii.gz,0
+RAPID-13157 (smartscore).nii.gz,0
+RAPID-13157 (SS Pulse).nii.gz,0
+RAPID-17005 (Unnamed Series 1).nii.gz,0
+RAPID-17005 (Unnamed Series 2).nii.gz,0
+RAPID-17005 (Unnamed Series 3).nii.gz,0
+RAPID-17049 (Rapid CCTA).nii.gz,0
+RAPID-17050 (NominalPercentageOfCardiacPhase).nii.gz,0
+RAPID-17050 (Unnamed Series 1).nii.gz,0
+RAPID-17054 (Unnamed Series).nii.gz,0
+RAPID-19010 (HALF 72% 1.03s Cardiac 0.5 CE - imageOrientationPatient 1 1).nii.gz,0
+RAPID-19010 (HALF 72% 1.03s Cardiac 0.5 CE - imageOrientationPatient 1 2).nii.gz,0
+RAPID-19013 (HALF 825ms 1.05s Cardiac 0.5 CE - imageOrientationPatient 1 1).nii.gz,0
+RAPID-19013 (HALF 825ms 1.05s Cardiac 0.5 CE - imageOrientationPatient 1 2).nii.gz,0
+RAPID-20023 (64).nii.gz,0
+RAPID-20023 (Hi Res).nii.gz,0
+RAPID-20023 (Recon 2 Smartscore).nii.gz,0
+RAPID-20023 (Smartscore).nii.gz,0
+RAPID-23003 (NominalPercentageOfCardiacPhase 0).nii.gz,0
+RAPID-23003 (SS Burst 75 - 113 bpm).nii.gz,0
+RAPID-25017 (334ms 0.00s 334ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25017 (354ms 0.00s 354ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25017 (374ms 0.00s 374ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25017 (75% 0.00s 75% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (10% 0.00s 10% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (20% 0.00s 20% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (30% 0.00s 30% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (40% 0.00s 40% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (462ms 0.00s 462ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (482ms 0.00s 482ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (50% 0.00s 50% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (502ms 0.00s 502ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (60% 0.00s 60% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (70% 0.00s 70% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (75% 0.00s 75% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (80% 0.00s 80% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25030 (90% 0.00s 90% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25049 (SEGMENT 720ms 0.00s 720ms 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25049 (SEGMENT 740ms 0.00s 740ms 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25049 (SEGMENT 75% 0.00s 75% 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25049 (SEGMENT 760ms 0.00s 760ms 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25066 (SEGMENT 708ms 0.00s 708ms 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25066 (SEGMENT 728ms 0.00s 728ms 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25066 (SEGMENT 748ms 0.00s 748ms 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25066 (SEGMENT 75% 0.00s 75% 0.5 Cardiac CTA SEGMENT CE).nii.gz,0
+RAPID-25079 (660ms 0.00s 660ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25079 (704ms 0.00s 704ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25079 (724ms 0.00s 724ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25079 (744ms 0.00s 744ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25079 (75% 0.00s 75% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25118 (75% 0.00s 75% 0.5 Cardiac CTA).nii.gz,0
+RAPID-25118 (946ms 0.00s 946ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25118 (966ms 0.00s 966ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-25118 (986ms 0.00s 986ms 0.5 Cardiac CTA).nii.gz,0
+RAPID-33024 (FULL STANDARD HiRes).nii.gz,0
+RAPID-33024 (SnapShot Pulse HiRes).nii.gz,0
+RAPID-33061 (CT 35-80 - 7 frames Volume Sequence).nii.gz,0
+RAPID-33061 (SnapShot Pulse).nii.gz,0
+RAPID-33061 (STANDARD).nii.gz,0
+RAPID-33073 (SnapShot Pulse HiRes).nii.gz,0
+RAPID-33073 (SnapShot Pulse).nii.gz,0
+RAPID-33135 (Standard).nii.gz,0
+RAPID-33139 (SnapShot Pulse V2).nii.gz,0
+RAPID-33139 (SnapShot Pulse).nii.gz,0
+RAPID-33152 (CorAdSeq  0.75  I30f  3  60 - 75 %).nii.gz,0
+RAPID-33188 (CorAdSeq  0.75  I30f  3  70%).nii.gz,0
+RAPID-33190 (CorAdSeq  0.75  I30f  3  -650--400ms).nii.gz,0
+RAPID-33190 (CorAdSeq  0.75  I30f  3  300ms).nii.gz,0
+RAPID-33190 (CorAdSeq  0.75  I30f  3  70%).nii.gz,0
+RAPID-45028 (78.0%).nii.gz,0
+SCOTHEART-120059.nii.gz,0
+SCOTHEART-120604 (274ms 0.65s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-120604 (294ms 0.65s Body 1.0 CE).nii.gz,0
+SCOTHEART-130178 (Cardiac 0.5).nii.gz,0
+SCOTHEART-130178 (HALF 790ms 1.03s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-130178 (HALF 810ms 1.03s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-130178 (HALF 830ms 1.03s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-130348 (657ms 0.88s Body 1.0 CE).nii.gz,0
+SCOTHEART-130348 (657ms 0.88s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-140319 (HALF 730ms 1.00s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-140319 (HALF 750ms 1.00s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-140319 (HALF 770ms 1.00s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-150243 (HALF 330ms 1.01s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-150243 (HALF 350ms 1.01s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-150243 (HALF 370ms 1.01s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-160119 (Unnamed Series V2).nii.gz,0
+SCOTHEART-160119 (Unnamed Series V3).nii.gz,0
+SCOTHEART-160119 (Unnamed Series).nii.gz,0
+SCOTHEART-160120 (Unnamed Series V2).nii.gz,0
+SCOTHEART-160120 (Unnamed Series V3).nii.gz,0
+SCOTHEART-160120 (Unnamed Series V4).nii.gz,0
+SCOTHEART-160120 (Unnamed Series).nii.gz,0
+SCOTHEART-170018 (HALF 706ms 1.13s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-170018 (HALF 726ms 1.13s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-170018 (HALF 746ms 1.13s Cardiac 0.5 CE).nii.gz,0
+SCOTHEART-170403 (792ms 1.06s Body 1.0).nii.gz,0
+SCOTHEART-180025 (Unnamed Series V2).nii.gz,0
+SCOTHEART-180025 (Unnamed Series).nii.gz,0
+SCOTHEART-180228 (Unnamed Series V2).nii.gz,0
+SCOTHEART-180228 (Unnamed Series V3).nii.gz,0
+SCOTHEART-180228 (Unnamed Series V4).nii.gz,0
+SCOTHEART-180228 (Unnamed Series V5).nii.gz,0
+SCOTHEART-180228 (Unnamed Series).nii.gz,0
+SCOTHEART-190153 (Unnamed Series).nii.gz,0
+SCOTHEART-190256 (Unnamed Series V2).nii.gz,0
+SCOTHEART-190256 (Unnamed Series V3).nii.gz,0
+SCOTHEART-190256 (Unnamed Series V4).nii.gz,0
+SCOTHEART-190256 (Unnamed Series).nii.gz,0
+SCOTHEART-200002 (Unnamed Series V2).nii.gz,0
+SCOTHEART-200002 (Unnamed Series V3).nii.gz,0
+SCOTHEART-200002 (Unnamed Series V4).nii.gz,0
+SCOTHEART-200002 (Unnamed Series V5).nii.gz,0
+SCOTHEART-200002 (Unnamed Series V6).nii.gz,0
+SCOTHEART-200002 (Unnamed Series V7).nii.gz,0
+SCOTHEART-200002 (Unnamed Series V8).nii.gz,0
+SCOTHEART-200002 (Unnamed Series).nii.gz,0
+SCOTHEART-210081 (Unnamed Series V2).nii.gz,0
+SCOTHEART-210081 (Unnamed Series V3).nii.gz,0
+SCOTHEART-210081 (Unnamed Series).nii.gz,0
+SCOTHEART-220039 (Unnamed Series).nii.gz,0
+HongKong-0003_0000.nii.gz,1
+HongKong-0005_0000.nii.gz,1
+HongKong-0036_0000.nii.gz,1
+HongKong-0070_0000.nii.gz,1
+HongKong-0300_0000.nii.gz,1
+HongKong-0481_0000.nii.gz,1
+HongKong-1414_0000.nii.gz,1
+PRC-09023771-CT_0000.nii.gz,1
+PRC-09063728-CT_0000.nii.gz,1
+PRC-09273661-CT_0000.nii.gz,1
+PRC-09726270-CT_0000.nii.gz,1
+PRC-10309412-CT_0000.nii.gz,1
+PRC-10330339-CT_0000.nii.gz,1
+PRC-10334407-CT_0000.nii.gz,1
+PRC-10337155-CT_0000.nii.gz,1
+PRC-11648491-CT_0000.nii.gz,1
+PRC-11648702-CT_0000.nii.gz,1
+PRC-11648854-CT_0000.nii.gz,1
+PRC-11684199-CT_0000.nii.gz,1
+PRC-11696670-CT_0000.nii.gz,1
+PRC-11773516-CT_0000.nii.gz,1
+PRC-11777893-CT_0000.nii.gz,1
+PRC-11853123-CT_0000.nii.gz,1
+PRC-11853773-CT_0000.nii.gz,1
+PRC-12006967-CT_0000.nii.gz,1
+PRC-12029558-CT_0000.nii.gz,1
+PRC-12201679-CT_0000.nii.gz,1
+PRC-12229792-CT_0000.nii.gz,1
+PRC-12719989-CT_0000.nii.gz,1
+PRC-12933447-CT_0000.nii.gz,1
+PRC-13094667-CT_0000.nii.gz,1
+PRC-13112615-CT_0000.nii.gz,1
+PRC-13119598-CT_0000.nii.gz,1
+PREFFIR-11001 (Cor CTA 55%).nii.gz,1
+PREFFIR-11001 (Cor CTA 60%).nii.gz,1
 PREFFIR-11001 (Cor CTA 65%).nii.gz,1
-PREFFIR-11003 (CorCTA 70%).nii.gz,1
-PREFFIR-11015 (CorCTAAdapt  0.75 _4WSH 70%).nii.gz,1
-PREFFIR-11015 (CorCTAAdapt  0.75 _CR2X 75%).nii.gz,1
-PREFFIR-11015 (CorCTAAdapt  0.75 _CY5Y 67%).nii.gz,1
+PREFFIR-11004 (Cor CTA 60%).nii.gz,1
+PREFFIR-11004 (CorCTA 55%).nii.gz,1
+PREFFIR-11004 (CorCTA 65%).nii.gz,1
+PREFFIR-11005 (CorCTA 55%).nii.gz,1
+PREFFIR-11005 (CorCTA 60%).nii.gz,1
+PREFFIR-11005 (CorCTA 65%).nii.gz,1
+PREFFIR-11005 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11005 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11005 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11005_0000.nii.gz,1
+PREFFIR-11008 (CorCTA 60%).nii.gz,1
+PREFFIR-11009 (Cor CTA 55%).nii.gz,1
+PREFFIR-11009 (Cor CTA 65%).nii.gz,1
+PREFFIR-11012 (CorCTA 0.75 B26f 75%).nii.gz,1
+PREFFIR-11012 (CorCTA 60%).nii.gz,1
+PREFFIR-11012 (CorCTA 65%).nii.gz,1
+PREFFIR-11012 (CorCTA 70%).nii.gz,1
+PREFFIR-11013 (CTCA 65%).nii.gz,1
+PREFFIR-11013 (CTCA 70%).nii.gz,1
+PREFFIR-11013 (CTCA 75%).nii.gz,1
+PREFFIR-11013_0000.nii.gz,1
+PREFFIR-11014 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11014 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11014_0000.nii.gz,1
 PREFFIR-11015 (CTCA 61%).nii.gz,1
 PREFFIR-11015 (CTCA 65%).nii.gz,1
 PREFFIR-11015 (CTCA 68%).nii.gz,1
+PREFFIR-11017 (CorCT 0.75 65%).nii.gz,1
+PREFFIR-11017 (CorCT 0.75 70%).nii.gz,1
+PREFFIR-11017 (CorCT 0.75 74%).nii.gz,1
+PREFFIR-11018 (CorCT 0.75 65%).nii.gz,1
+PREFFIR-11018 (CorCT 0.75 70%).nii.gz,1
+PREFFIR-11018 (CorCT 0.75 75%).nii.gz,1
+PREFFIR-11019 (CorCT 0.75 66%).nii.gz,1
+PREFFIR-11019 (CorCT 0.75 70%).nii.gz,1
+PREFFIR-11019 (CorCT 0.75 75%).nii.gz,1
+PREFFIR-11020 (CorCTA 0.75 B26f 65%).nii.gz,1
+PREFFIR-11020 (CorCTA 0.75 B26f 67%).nii.gz,1
+PREFFIR-11020 (CorCTA 0.75 B26f 69%).nii.gz,1
+PREFFIR-11021 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11021 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11021 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11021_0000.nii.gz,1
+PREFFIR-11022 (Cor CTA 0.75 B26f 61%).nii.gz,1
+PREFFIR-11022 (Cor CTA 0.75 B26f 65%).nii.gz,1
+PREFFIR-11022 (Cor CTA 0.75 B26f 70%).nii.gz,1
+PREFFIR-11025 (Cor CTA 0.75 B26f 67%).nii.gz,1
+PREFFIR-11025 (Cor CTA 0.75 B26f 68%).nii.gz,1
+PREFFIR-11025 (Cor CTA 0.75 B26f 70%).nii.gz,1
+PREFFIR-11028 (CorCTA  0.75  B26f  55%).nii.gz,1
+PREFFIR-11028 (CorCTA  0.75  B26f  60%).nii.gz,1
+PREFFIR-11028 (CorCTA  0.75  B26f  65%).nii.gz,1
+PREFFIR-11029 (CorrCTA 0.75 65%).nii.gz,1
+PREFFIR-11029 (CorrCTA 0.75 70%).nii.gz,1
+PREFFIR-11029 (CorrCTA 0.75 75%).nii.gz,1
+PREFFIR-11032 (CorCTA  0.75  B26f  60%).nii.gz,1
+PREFFIR-11032 (CorCTA  0.75  B26f  65%).nii.gz,1
+PREFFIR-11034 (CorCTA 0.75 65%).nii.gz,1
+PREFFIR-11034 (CorCTA 0.75 70%).nii.gz,1
+PREFFIR-11035 (CorCTA 0.75 55%).nii.gz,1
+PREFFIR-11035 (CorCTA 0.75 60%).nii.gz,1
+PREFFIR-11037 (CorCTA  0.75  B26f  788ms).nii.gz,1
+PREFFIR-11038 (CorCTA 0.75 B26f 50%).nii.gz,1
+PREFFIR-11038 (CorCTA 0.75 B26f 60%).nii.gz,1
 PREFFIR-11038 (CorCTA 0.75 B26f 65%).nii.gz,1
-PREFFIR-11044 (CorCTA 0.75 70%).nii.gz,1
-PREFFIR-11071 (Cor CTA 75%).nii.gz,1
-PREFFIR-11077 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,1
-PREFFIR-11077 (CorCTAAdapt  0.75_MVOV 70%).nii.gz,1
-PREFFIR-11077 (CorCTAAdapt  0.75_PIIT 65%).nii.gz,1
-PREFFIR-11118 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,1
-PREFFIR-11173 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,1
-PREFFIR-11258 (CorCTAAdapt  0.75_KHP6 75%).nii.gz,1
-PREFFIR-12148 (65%).nii.gz,1
-PREFFIR-12148 (75%).nii.gz,1
-PREFFIR-13002 (SnapShot Pulse).nii.gz,1
-PREFFIR-13007.nii.gz,1
-PREFFIR-13012 (SnapShot Pulse).nii.gz,1
-PREFFIR-13012 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13013 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13014 (SnapShot Pulse).nii.gz,1
-PREFFIR-13014 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13032 (SnapShot Pulse).nii.gz,1
-PREFFIR-13032 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13035 (SnapShot Pulse).nii.gz,1
-PREFFIR-13035 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13041 (SnapShot Pulse).nii.gz,1
-PREFFIR-13041 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13096 (SnapShot Pulse).nii.gz,1
-PREFFIR-13096 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13133 (SnapShot Pulse).nii.gz,1
-PREFFIR-13133 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13160 (SnapShot Pulse).nii.gz,1
-PREFFIR-13160 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-13169 (SnapShot Pulse).nii.gz,1
-PREFFIR-13169 (SnapShot Pulse_1).nii.gz,1
-PREFFIR-14077 (Cardiac CTCA  0.6_MVOV 70%).nii.gz,1
-PREFFIR-14077 (Cardiac CTCA ZOOME_QPOZ 60%).nii.gz,1
-PREFFIR-14118 (CTCA  0.6  B26f  70%).nii.gz,1
-PREFFIR-14118 (Zoomed Cardiac CTC_J2YV 70%).nii.gz,1
-PREFFIR-16017 (75% CTA).nii.gz,1
-PREFFIR-16055 (45% PHASE).nii.gz,1
-PREFFIR-16055 (65%).nii.gz,1
-PREFFIR-16055 (75%).nii.gz,1
-PREFFIR-16055 (CTA (65-80BPM)).nii.gz,1
-PREFFIR-16071 (75%).nii.gz,1
-RAPID-11067 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,1
-RAPID-11067 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,1
-RAPID-11067 (796ms 0.00s Cardia 0.5 CE 796ms).nii.gz,1
-RAPID-11111 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,1
-RAPID-11111 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,1
-RAPID-11111 (750ms 0.00s Cardiac 0.5 CE 750ms).nii.gz,1
-RAPID-11133 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,1
-RAPID-11139 (711ms 0.00s Cardiac 0.5 CE 711ms).nii.gz,1
-RAPID-11139 (75% 0.00s Cardiac 0.5 CE 75%).nii.gz,1
-RAPID-11139 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,1
-RAPID-11150 (75% 0.00s Soft Tissue 1.0 CE 75%).nii.gz,1
-RAPID-13016.nii.gz,1
-RAPID-13034 (CT - 2 frames Volume Sequence by NominalPercentageOfCardiacPhase Series 2).nii.gz,1
-RAPID-13034 (CT - 2 frames Volume Sequence by NominalPercentageOfCardiacPhase Series1).nii.gz,1
-RAPID-13048 (CT phase - 6 frames Volume Sequence by NominalPercentageOfCardiacPhase).nii.gz,1
-RAPID-13048 (SS Pulse).nii.gz,1
-RAPID-13111 (smartscore).nii.gz,1
-RAPID-13111 (SS Pulse HI-Res).nii.gz,1
-RAPID-13124 (smartscore).nii.gz,1
-RAPID-13124 (SS Pulse).nii.gz,1
-RAPID-13157 (smartscore).nii.gz,1
-RAPID-13157 (SS Pulse).nii.gz,1
-RAPID-17005 (Unnamed Series 3).nii.gz,1
-RAPID-17049 (Rapid CCTA).nii.gz,1
-RAPID-17050 (NominalPercentageOfCardiacPhase).nii.gz,1
-RAPID-17050 (Unnamed Series 1).nii.gz,1
-RAPID-17054 (Unnamed Series).nii.gz,1
-RAPID-19010 (HALF 72% 1.03s Cardiac 0.5 CE - imageOrientationPatient 1 1).nii.gz,1
-RAPID-19010 (HALF 72% 1.03s Cardiac 0.5 CE - imageOrientationPatient 1 2).nii.gz,1
-RAPID-19013 (HALF 825ms 1.05s Cardiac 0.5 CE - imageOrientationPatient 1 1).nii.gz,1
-RAPID-19013 (HALF 825ms 1.05s Cardiac 0.5 CE - imageOrientationPatient 1 2).nii.gz,1
-RAPID-20023 (Hi Res).nii.gz,1
-RAPID-23003 (NominalPercentageOfCardiacPhase 0).nii.gz,1
-RAPID-23003 (SS Burst 75 - 113 bpm).nii.gz,1
-RAPID-25017 (75% 0.00s 75% 0.5 Cardiac CTA).nii.gz,1
-RAPID-25030 (90% 0.00s 90% 0.5 Cardiac CTA).nii.gz,1
-RAPID-25049 (SEGMENT 75% 0.00s 75% 0.5 Cardiac CTA SEGMENT CE).nii.gz,1
-RAPID-25066 (SEGMENT 75% 0.00s 75% 0.5 Cardiac CTA SEGMENT CE).nii.gz,1
-RAPID-25079 (75% 0.00s 75% 0.5 Cardiac CTA).nii.gz,1
-RAPID-25118 (75% 0.00s 75% 0.5 Cardiac CTA).nii.gz,1
-RAPID-33024 (FULL STANDARD HiRes).nii.gz,1
-RAPID-33061 (CT 35-80 - 7 frames Volume Sequence).nii.gz,1
-RAPID-33073 (SnapShot Pulse HiRes).nii.gz,1
-RAPID-33135 (Standard).nii.gz,1
-RAPID-33139 (SnapShot Pulse V2).nii.gz,1
-RAPID-33152 (CorAdSeq  0.75  I30f  3  60 - 75 %).nii.gz,1
-HongKong-0003_0000.nii.gz,4
-HongKong-0005_0000.nii.gz,4
-HongKong-0036_0000.nii.gz,4
-HongKong-0070_0000.nii.gz,4
-HongKong-0300_0000.nii.gz,4
-HongKong-0481_0000.nii.gz,4
-HongKong-1414_0000.nii.gz,4
-PRC-09023771-CT_0000.nii.gz,4
-PRC-09063728-CT_0000.nii.gz,4
-PRC-09273661-CT_0000.nii.gz,4
-PRC-09726270-CT_0000.nii.gz,4
-PRC-10309412-CT_0000.nii.gz,4
-PRC-10330339-CT_0000.nii.gz,4
-PRC-10334407-CT_0000.nii.gz,4
-PRC-10337155-CT_0000.nii.gz,4
-PRC-11648491-CT_0000.nii.gz,4
-PRC-11648702-CT_0000.nii.gz,4
-PRC-11648854-CT_0000.nii.gz,4
-PRC-11684199-CT_0000.nii.gz,4
-PRC-11696670-CT_0000.nii.gz,4
-PRC-11773516-CT_0000.nii.gz,4
-PRC-11777893-CT_0000.nii.gz,4
-PRC-11853123-CT_0000.nii.gz,4
-PRC-11853773-CT_0000.nii.gz,4
-PRC-12006967-CT_0000.nii.gz,4
-PRC-12029558-CT_0000.nii.gz,4
-PRC-12201679-CT_0000.nii.gz,4
-PRC-12229792-CT_0000.nii.gz,4
-PRC-12719989-CT_0000.nii.gz,4
-PRC-12933447-CT_0000.nii.gz,4
-PRC-13094667-CT_0000.nii.gz,4
-PRC-13112615-CT_0000.nii.gz,4
-PRC-13119598-CT_0000.nii.gz,4
-PREFFIR-11005_0000.nii.gz,4
-PREFFIR-11013_0000.nii.gz,4
-PREFFIR-11014_0000.nii.gz,4
-PREFFIR-11021_0000.nii.gz,4
-PREFFIR-11083_0000.nii.gz,4
-PREFFIR-11145_0000.nii.gz,4
-PREFFIR-11158_0000.nii.gz,4
-PREFFIR-11160_0000.nii.gz,4
-PREFFIR-11162_0000.nii.gz,4
-PREFFIR-11166_0000.nii.gz,4
-PREFFIR-11222_0000.nii.gz,4
-PREFFIR-11223_0000.nii.gz,4
-PREFFIR-11229_0000.nii.gz,4
-PREFFIR-13003_0000.nii.gz,4
-PREFFIR-13006_0000.nii.gz,4
-PREFFIR-13009_0000.nii.gz,4
-PREFFIR-13015_0000.nii.gz,4
-PREFFIR-13017_0000.nii.gz,4
-PREFFIR-13018_0000.nii.gz,4
-PREFFIR-13036_0000.nii.gz,4
-PREFFIR-13057_0000.nii.gz,4
-PREFFIR-13081_0000.nii.gz,4
-PREFFIR-13102_0000.nii.gz,4
-PREFFIR-13114_0000.nii.gz,4
-PREFFIR-13137_0000.nii.gz,4
-PREFFIR-13146_0000.nii.gz,4
-PREFFIR-13155_0000.nii.gz,4
-PREFFIR-14058_0000.nii.gz,4
-PREFFIR-15004_0000.nii.gz,4
-PREFFIR-16020_0000.nii.gz,4
-RAPID-17015_0000.nii.gz,4
-RAPID-17044_0000.nii.gz,4
-RAPID-17062_0000.nii.gz,4
-RAPID-17084_0000.nii.gz,4
-RAPID-17114_0000.nii.gz,4
-RAPID-20019_0000.nii.gz,4
-RAPID-23005_0000.nii.gz,4
-RAPID-25105_0000.nii.gz,4
-RAPID-25109_0000.nii.gz,4
-RAPID-25122_0000.nii.gz,4
-RAPID-27016_0000.nii.gz,4
-RAPID-33100_0000.nii.gz,4
-RAPID-36029_0000.nii.gz,4
-RAPID-37010_0000.nii.gz,4
-RAPID-45013_0000.nii.gz,4
-SCOTHEART-140487_0000.nii.gz,4
-SCOTHEART-150470_0000.nii.gz,4
-SCOTHEART-160135_0000.nii.gz,4
-SCOTHEART-160201_0000.nii.gz,4
-SCOTHEART-170022_0000.nii.gz,4
-SCOTHEART-170348_0000.nii.gz,4
-SCOTHEART-180017_0000.nii.gz,4
-SCOTHEART-180166_0000.nii.gz,4
-SCOTHEART-180182_0000.nii.gz,4
-SCOTHEART-180227_0000.nii.gz,4
-SCOTHEART-180260_0000.nii.gz,4
-SCOTHEART-180334_0000.nii.gz,4
-SCOTHEART-190003_0000.nii.gz,4
-SCOTHEART-190161_0000.nii.gz,4
-SCOTHEART-200010_0000.nii.gz,4
-SCOTHEART-210001_0000.nii.gz,4
-SCOTHEART-210040_0000.nii.gz,4
-SCOTHEART-210064_0000.nii.gz,4
-SCOTHEART-210132_0000.nii.gz,4
-SCOTHEART-210148_0000.nii.gz,4
+PREFFIR-11039 (CorCTAAdapt 0.75 B26f 65%).nii.gz,1
+PREFFIR-11039 (CorCTAAdapt 0.75 B26f 70%).nii.gz,1
+PREFFIR-11039 (CorCTAAdapt 0.75 B26f 75%).nii.gz,1
+PREFFIR-11040 (CorCTA 0.75 B26f 60%).nii.gz,1
+PREFFIR-11040 (CorCTA 0.75 B26f 65%).nii.gz,1
+PREFFIR-11040 (CorCTA 0.75 B26f 70%).nii.gz,1
+PREFFIR-11041 (CorCTA 0.75 B26f 60%).nii.gz,1
+PREFFIR-11041 (CorCTA 0.75 B26f 65%).nii.gz,1
+PREFFIR-11041 (CorCTA 0.75 B26f 70%).nii.gz,1
+PREFFIR-11042 (CorCTA  0.75  B26f  55%).nii.gz,1
+PREFFIR-11042 (CorCTA  0.75  B26f  60%).nii.gz,1
+PREFFIR-11042 (CorCTA  0.75  B26f  65%).nii.gz,1
+PREFFIR-11043 (CorCTA Adapt 0.75 B26f 67%).nii.gz,1
+PREFFIR-11043 (CorCTA Adapt 0.75 B26f 70%).nii.gz,1
+PREFFIR-11043 (CorCTA Adapt 0.75 B26f 73%).nii.gz,1
+PREFFIR-11047 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11047 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11047 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11049 (CorCTAAdapt  0.75  B26f  60%).nii.gz,1
+PREFFIR-11049 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11049 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11054 (CorCTAAdapt  0.6  B36f  70%).nii.gz,1
+PREFFIR-11057 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11057 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11057 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11059 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11059 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11059 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11060 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11060 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11060 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11062 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11062 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11062 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11063 (CorCTAAdapt  0.75  B26f  60%).nii.gz,1
+PREFFIR-11063 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11063 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11065 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11065 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11065 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11072 (Cor CTA 60%).nii.gz,1
+PREFFIR-11072 (Cor CTA 65%).nii.gz,1
+PREFFIR-11072 (Cor CTA 70%).nii.gz,1
+PREFFIR-11072 (CorCTAAdapt  0.75  B26f  60% (ammended)).nii.gz,1
+PREFFIR-11072 (CorCTAAdapt  0.75  B26f  65% (ammended)).nii.gz,1
+PREFFIR-11072 (CorCTAAdapt  0.75  B26f  70% (ammended)).nii.gz,1
+PREFFIR-11074 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11074 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11074 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11075 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11075 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11075 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11076 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11076 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11076 (CorCTAAdapt  0.75  B26f  70%)_1.nii.gz,1
+PREFFIR-11078 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11078 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11078 (CorCTAAdapt  0.75  B26f  75%).nii.gz,1
+PREFFIR-11079 (Cor CTA 62%).nii.gz,1
+PREFFIR-11079 (Cor CTA 64%).nii.gz,1
+PREFFIR-11079 (Cor CTA 66%).nii.gz,1
+PREFFIR-11083 (CorCTA  0.75  B26f  60%).nii.gz,1
+PREFFIR-11083 (CorCTA  0.75  B26f  65%).nii.gz,1
+PREFFIR-11083 (CorCTA  0.75  B26f  70%).nii.gz,1
+PREFFIR-11083_0000.nii.gz,1
+PREFFIR-11086 (CorCTAAdapt  0.75  B26f  60%).nii.gz,1
+PREFFIR-11086 (CorCTAAdapt  0.75  B26f  65%).nii.gz,1
+PREFFIR-11086 (CorCTAAdapt  0.75  B26f  70%).nii.gz,1
+PREFFIR-11086 (CorCTAAdapt 0.75 B26f 65%).nii.gz,1
+PREFFIR-11086 (CorCTAAdapt 0.75 B26f 70%).nii.gz,1
+PREFFIR-11086 (CorCTAAdapt 0.75 B26f 75%).nii.gz,1
+PREFFIR-11145_0000.nii.gz,1
+PREFFIR-11158_0000.nii.gz,1
+PREFFIR-11160_0000.nii.gz,1
+PREFFIR-11162_0000.nii.gz,1
+PREFFIR-11166_0000.nii.gz,1
+PREFFIR-11222_0000.nii.gz,1
+PREFFIR-11223_0000.nii.gz,1
+PREFFIR-11229_0000.nii.gz,1
+PREFFIR-13003_0000.nii.gz,1
+PREFFIR-13006_0000.nii.gz,1
+PREFFIR-13009_0000.nii.gz,1
+PREFFIR-13015_0000.nii.gz,1
+PREFFIR-13017_0000.nii.gz,1
+PREFFIR-13018_0000.nii.gz,1
+PREFFIR-13036_0000.nii.gz,1
+PREFFIR-13057_0000.nii.gz,1
+PREFFIR-13081_0000.nii.gz,1
+PREFFIR-13102_0000.nii.gz,1
+PREFFIR-13114_0000.nii.gz,1
+PREFFIR-13137_0000.nii.gz,1
+PREFFIR-13146_0000.nii.gz,1
+PREFFIR-13155_0000.nii.gz,1
+PREFFIR-14058_0000.nii.gz,1
+PREFFIR-15004_0000.nii.gz,1
+PREFFIR-16020_0000.nii.gz,1
+RAPID-17015_0000.nii.gz,1
+RAPID-17044_0000.nii.gz,1
+RAPID-17062_0000.nii.gz,1
+RAPID-17084_0000.nii.gz,1
+RAPID-17114_0000.nii.gz,1
+RAPID-20019_0000.nii.gz,1
+RAPID-23005_0000.nii.gz,1
+RAPID-25105_0000.nii.gz,1
+RAPID-25109_0000.nii.gz,1
+RAPID-25122_0000.nii.gz,1
+RAPID-27016_0000.nii.gz,1
+RAPID-33100_0000.nii.gz,1
+RAPID-36029_0000.nii.gz,1
+RAPID-37010_0000.nii.gz,1
+RAPID-45013_0000.nii.gz,1
+SCOTHEART-140487_0000.nii.gz,1
+SCOTHEART-150470_0000.nii.gz,1
+SCOTHEART-160135_0000.nii.gz,1
+SCOTHEART-160201_0000.nii.gz,1
+SCOTHEART-170022_0000.nii.gz,1
+SCOTHEART-170348_0000.nii.gz,1
+SCOTHEART-180017_0000.nii.gz,1
+SCOTHEART-180166_0000.nii.gz,1
+SCOTHEART-180182_0000.nii.gz,1
+SCOTHEART-180227_0000.nii.gz,1
+SCOTHEART-180260_0000.nii.gz,1
+SCOTHEART-180334_0000.nii.gz,1
+SCOTHEART-190003_0000.nii.gz,1
+SCOTHEART-190161_0000.nii.gz,1
+SCOTHEART-200010_0000.nii.gz,1
+SCOTHEART-210001_0000.nii.gz,1
+SCOTHEART-210040_0000.nii.gz,1
+SCOTHEART-210064_0000.nii.gz,1
+SCOTHEART-210132_0000.nii.gz,1
+SCOTHEART-210148_0000.nii.gz,1
