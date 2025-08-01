@@ -17,14 +17,22 @@
 ## Project Structure
 
 ```
-├── training_script.py                    # Full feature extraction and training pipeline
-├── inference_script.py                   # Inference script for new scans
-├── Radiomic Labels.csv                   # Ground truth labels for training
-├── full_radiomics_features.csv           # List of Extracted radiomic features
-├── trained_radiomics_model.pkl           # Saved model file to be used for inference
-├── feature_importance_by_slice.csv       # A list showing which features had the most impact
-├── reorganized_radiomics_features.csv    # A cleaner Long-format per-slice feature file
-└── README.md                             # Project documentation
+├── Training Scripts/
+│   └── training_script.py                      # Full feature extraction and training pipeline
+│
+├── Inference Scripts/
+│   └── inference_script.py                     # Inference script for new scans
+│
+├── Classifier Models/
+│   └── trained_radiomics_model.pkl             # Trained model for inference
+│
+├── Extracted Features CSVs/
+│   ├── full_(model)_features.csv               # Raw extracted radiomic features
+│   ├── reorganized_(model)_features.csv        # Long-format per-slice features
+│   └── feature_importance_by_slice.csv         # Feature importance by slice
+│
+├── Radiomic Labels.csv                         # Ground truth labels
+└── README.md                                    # Project documentation
 ```
 
 ---
