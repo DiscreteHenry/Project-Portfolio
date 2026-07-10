@@ -107,6 +107,21 @@ for filename in os.listdir(input_folder):
     print(f"   -> Found {crystal_count} crystals.")
     print(f"   -> Calculated Concentration: {concentration_per_ml:.2e} crystals/mL")
 
+    # ==========================================
+    # NEW STEP: GENERATE TRAINING LABELS AUTOMATICALLY
+    # ==========================================
+    labels_folder = "./automated_labels"
+    os.makedirs(labels_folder, exist_ok=True)
+
+    # Cellpose assigns sequential integers to masks (0=bg, 1=crystal1, 2=crystal2...).
+    # We turn any pixel > 0 into a solid white pixel (255) to make a clean binary mask.
+    binary_mask = np.where(masks > 0, 255, 0).astype(np.uint8)
+
+    # Save the mask using a matching filename prefix so the annotation software links them
+    mask_filename = f"mask_{os.path.splitext(filename)[0]}.png"
+    cv2.imwrite(os.path.join(labels_folder, mask_filename), binary_mask)
+    print(f"   -> Saved automated annotation to {labels_folder}/{mask_filename}")
+
     # Append data dictionary for final compilation
     results_list.append({
         "Filename": filename,
