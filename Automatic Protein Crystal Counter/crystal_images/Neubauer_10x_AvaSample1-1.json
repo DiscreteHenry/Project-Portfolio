@@ -9888,24 +9888,6 @@
       "label": "Protein Crystal",
       "points": [
         [
-          119.35939149947203,
-          314.1439083949314
-        ],
-        [
-          93.65321409714895,
-          332.23557946145723
-        ]
-      ],
-      "group_id": null,
-      "description": "",
-      "shape_type": "rectangle",
-      "flags": {},
-      "mask": null
-    },
-    {
-      "label": "Protein Crystal",
-      "points": [
-        [
           580.0576491552271,
           24.48330253431893
         ],
@@ -11964,6 +11946,78 @@
         [
           941.8539466737064,
           903.2988054382259
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          58.60421066525876,
+          336.1872030095037
+        ],
+        [
+          41.58913014783528,
+          347.30784714889126
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          107.4261483632524,
+          320.47558078141503
+        ],
+        [
+          95.38153379091872,
+          332.709939281943
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          31.281085005279863,
+          564.0572861668427
+        ],
+        [
+          19.74795406546994,
+          581.5549762407603
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          25.126781942977857,
+          492.7300686378036
+        ],
+        [
+          12.199445617740281,
+          508.6149353220697
         ]
       ],
       "group_id": null,

@@ -1,0 +1,5 @@
+Filename,Sample_ID,Slide_Type,Magnification,Crystal_Count,Total_Volume_Imaged_mL,Concentration_Crystals_per_mL
+Neubauer_10x_mixed-2.jpeg,mixed-2,Neubauer,10x,1190,0.0001,11900000.0
+Neubauer_10x_transverse-2.jpeg,transverse-2,Neubauer,10x,1182,0.0001,11820000.0
+Neubauer_10x_mixed-1.jpeg,mixed-1,Neubauer,10x,2809,0.0001,28090000.0
+Neubauer_10x_axial-1.jpeg,axial-1,Neubauer,10x,1709,0.0001,17090000.0

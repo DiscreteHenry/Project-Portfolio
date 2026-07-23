@@ -1,6 +1,2 @@
 Filename,Sample_ID,Slide_Type,Magnification,Crystal_Count,Total_Volume_Imaged_mL,Concentration_Crystals_per_mL
-Neubauer_10x_KathrynSample1-8.PNG,KathrynSample1-8,Neubauer,10x,74,0.0001,740000.0
-Neubauer_10x_Sample17.PNG,Sample17,Neubauer,10x,104,0.0001,1040000.0
-Neubauer_10x_Sample8.PNG,Sample8,Neubauer,10x,61,0.0001,610000.0
-Neubauer_10x_KathrynSample1-7.PNG,KathrynSample1-7,Neubauer,10x,79,0.0001,790000.0
-Neubauer_10x_KathrynSample1-6.PNG,KathrynSample1-6,Neubauer,10x,62,0.0001,620000.0
+Neubauer_10x_T1.jpeg,T1,Neubauer,10x,2499,0.0001,24990000.0
