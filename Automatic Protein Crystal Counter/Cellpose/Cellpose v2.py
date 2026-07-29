@@ -19,7 +19,7 @@ import sys
 import argparse
 
 import cv2
-import numpy as np
+import numpy as np8
 import pandas as pd
 from cellpose import models
 
