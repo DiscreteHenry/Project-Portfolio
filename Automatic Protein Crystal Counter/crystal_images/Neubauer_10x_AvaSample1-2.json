@@ -13285,6 +13285,114 @@
       "shape_type": "rectangle",
       "flags": {},
       "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          954.8104144597457,
+          189.08885063559325
+        ],
+        [
+          965.5732918432204,
+          199.20620365466104
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          761.9186308262712,
+          551.5714711334746
+        ],
+        [
+          771.5932203389831,
+          561.0143339512713
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          135.4496490995763,
+          57.13291181144071
+        ],
+        [
+          143.71732653601694,
+          69.3647709216102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          135.78896318855934,
+          38.43339512711867
+        ],
+        [
+          144.4828522245763,
+          48.43902277542376
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          52.16459216101694,
+          64.99092955508478
+        ],
+        [
+          62.57160354872886,
+          75.65449549788138
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          138.52416578389833,
+          477.53065413135596
+        ],
+        [
+          148.41806806144066,
+          493.83842028601697
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
     }
   ],
   "imagePath": "Neubauer_10x_AvaSample1-2.PNG",
