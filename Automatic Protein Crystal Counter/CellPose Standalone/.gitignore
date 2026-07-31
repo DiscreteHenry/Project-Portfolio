@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+
+# PyInstaller
+build/
+dist/
+*.spec.bak
+
+# Runtime outputs
+verification_images/
+automated_labels/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
