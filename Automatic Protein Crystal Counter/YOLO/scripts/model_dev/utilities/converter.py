@@ -1,6 +1,7 @@
 import os
 import json
 from tqdm import tqdm
+import datetime  # <--- ADD THIS LINE
 
 # --- Configuration ---
 # You NEED to update these variables before running the script.
@@ -46,7 +47,7 @@ def convert_labelme_to_coco():
     # Initialize counters for IDs
     image_id_counter = 0
     annotation_id_counter = 0
-    category_id_counter = 0
+    category_id_counter = -1  # Start at -1 so first increment makes it 0
 
     # Mappings for categories
     label_to_category_id = {}
@@ -57,6 +58,12 @@ def convert_labelme_to_coco():
     json_files = [f for f in os.listdir(LABELME_DIR) if f.endswith('.json')]
     if not json_files:
         print(f"No .json files found in '{LABELME_DIR}'. Please check the directory.")
+        # Ensure an empty COCO JSON is created to avoid downstream errors, even if no files
+        coco_output["info"]["date_created"] = datetime.datetime.now().strftime(
+            "%Y-%m-%d %H:%M:%S")  # <--- CORRECTED LINE
+        with open(OUT_JSON, 'w', encoding='utf-8') as f:
+            json.dump(coco_output, f, indent=4)
+        print(f"Created empty COCO-like JSON at: {OUT_JSON}")
         return
 
     for json_file_name in tqdm(json_files, desc="Processing LabelMe JSONs"):
@@ -137,7 +144,7 @@ def convert_labelme_to_coco():
                 print(f"Warning: Skipping unsupported shape type '{shape['shape_type']}' in {json_file_name}")
 
     # Set date created
-    coco_output["info"]["date_created"] = json.encoder.datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    coco_output["info"]["date_created"] = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")  # <--- CORRECTED LINE
 
     # Save the COCO-like JSON
     with open(OUT_JSON, 'w', encoding='utf-8') as f:
@@ -150,8 +157,5 @@ def convert_labelme_to_coco():
 
 
 if __name__ == "__main__":
-    import datetime
-
-    # This will be replaced by the data_split_and_convert.py script if you're using it.
-    # Otherwise, manually set the configuration variables above and run this script directly.
+    # Removed redundant import datetime here
     convert_labelme_to_coco()

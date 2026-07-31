@@ -4,12 +4,12 @@ import os
 # --- Configuration ---
 DATA_YAML_PATH = 'dataset.yaml'
 MODEL_VARIANT = 'yolov8n.pt'  # Choose your YOLOv8 model: 'yolov8n.pt', 'yolov8s.pt', 'yolov8m.pt', 'yolov8l.pt', 'yolov8x.pt'
-EPOCHS = 100                 # Number of training epochs
+EPOCHS = 20                 # Number of training epochs
 IMG_SIZE = 1024              # Image size for training (larger for small objects)
-BATCH_SIZE = 8               # Adjust based on your GPU memory
-DEVICE = 0                   # GPU device ID (0 for first GPU, or 'cpu' for CPU training)
+BATCH_SIZE = 2               # Adjust based on your GPU memory
+DEVICE = 'cpu'                   # GPU device ID (0 for first GPU, or 'cpu' for CPU training)
 PROJECT_NAME = 'crystal_counting_yolov8'
-EXPERIMENT_NAME = 'exp1'      # Experiment name for runs directory
+EXPERIMENT_NAME = 'initial_image_weak_model'      # Experiment name for runs directory
 CONFIDENCE_THRESHOLD = 0.25  # Minimum confidence for detection during validation
 IOU_THRESHOLD = 0.7          # NMS IoU threshold during validation
 

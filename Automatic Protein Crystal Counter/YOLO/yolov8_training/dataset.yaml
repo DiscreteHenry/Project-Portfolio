@@ -1,23 +1,22 @@
 # dataset.yaml for Protein Crystal Counting
 
 # Path to the dataset root directory (relative to where train_model.py is run from)
-# This path should contain the 'images' and 'annotations' subdirectories
-path: ../data/processed
+# This path should contain the 'images' and 'labels' subdirectories
+path: ../data/processed_seed_data # This will be processed_iterN_data in later iterations
 
-# Training and Validation image paths and annotation JSONs
-# YOLOv8 can directly consume COCO-like JSONs
+# Training and Validation image paths and YOLO .txt label paths
 train:
   images: images/train
-  labels: annotations/instances_train.json
+  labels: labels/train # <--- CHANGE THIS: Point directly to the YOLO .txt files
 val:
   images: images/val
-  labels: annotations/instances_val.json
-test: # Optional: if you split a test set
+  labels: labels/val   # <--- CHANGE THIS
+test:
   images: images/test
-  labels: annotations/instances_test.json
+  labels: labels/test  # <--- CHANGE THIS
 
 # Number of classes
 nc: 1
 
-# Class names
+# Class names (must match the order used during COCO to YOLO conversion)
 names: ['crystal']
