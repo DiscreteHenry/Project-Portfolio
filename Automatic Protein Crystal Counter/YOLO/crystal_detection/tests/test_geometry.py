@@ -1,6 +1,6 @@
 import unittest
 
-from crystal_yolo import Box, boxes_for_tile, tile_positions, yolo_row
+from crystal_yolo import Box, boxes_for_tile, labelme_shape, tile_positions, yolo_row
 
 
 class GeometryTests(unittest.TestCase):
@@ -14,3 +14,9 @@ class GeometryTests(unittest.TestCase):
         boxes = [Box(450, 10, 550, 110), Box(520, 10, 620, 110)]
         self.assertEqual(boxes_for_tile(boxes, 0, 0, 512, 512), [Box(450, 10, 512, 110)])
         self.assertEqual(boxes_for_tile(boxes, 512, 0, 512, 512), [Box(8, 10, 108, 110)])
+
+    def test_labelme_shape_preserves_rectangle_and_confidence(self):
+        shape = labelme_shape(Box(1.2, 3.4, 5.6, 7.8), confidence=0.87654321)
+        self.assertEqual(shape["label"], "Protein Crystal")
+        self.assertEqual(shape["points"], [[1.2, 3.4], [5.6, 7.8]])
+        self.assertEqual(shape["flags"]["pseudo_confidence"], 0.876543)
