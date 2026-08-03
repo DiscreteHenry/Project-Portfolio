@@ -50,6 +50,16 @@ python crystal_yolo.py infer --weights runs/crystal_detection/baseline/weights/b
 
 Inference tiles the image, maps tile predictions back to global coordinates, globally suppresses duplicates with NMS, and writes `annotated_result.png`, `detections.csv`, and `inference_metadata.json`. The final CSV has one row per unique detected crystal.
 
+## Generate editable pseudo-labels
+
+After the first weak model is trained, generate predictions for the unlabeled pool:
+
+```powershell
+python crystal_yolo.py pseudo-label --weights runs/crystal_detection/baseline/weights/best.pt --source-dir ../data/unlabeled_pool --output-dir ../data/pseudo_labels/iter1
+```
+
+This uses the same 512 px tiles, 128 px overlap, global coordinate conversion, and global NMS as inference. It writes copied images and editable LabelMe JSON files under `data/pseudo_labels/iter1/labelme`, plus annotated previews, a CSV, and metadata. Open the copied image/JSON pairs from that `labelme` folder in LabelMe and correct the boxes. Then copy the corrected image/JSON pairs into `data/raw_labelme_images` (or another input directory) and rerun `prepare` to train the next iteration. The default confidence is intentionally 0.15 so low-confidence candidates are available for human review; increase it if the overlays are too noisy.
+
 ## Tests
 
 ```powershell

@@ -272,6 +272,93 @@ def intersection_over_union(first: Box, second: Box) -> float:
     return (intersection_width * intersection_height / union) if union else 0.0
 
 
+def labelme_shape(box: Box, label: str = "Protein Crystal", confidence: float | None = None) -> dict:
+    """Create an editable LabelMe rectangle shape, optionally retaining confidence metadata."""
+    flags = {} if confidence is None else {"pseudo_confidence": round(confidence, 6)}
+    return {
+        "label": label,
+        "points": [[round(box.x1, 3), round(box.y1, 3)], [round(box.x2, 3), round(box.y2, 3)]],
+        "group_id": None,
+        "description": "Pseudo-label: review and correct this rectangle.",
+        "shape_type": "rectangle",
+        "flags": flags,
+    }
+
+
+def tiled_predictions(model, image, tile_size: int, overlap: int,
+                      confidence: float, nms_iou: float) -> list[tuple[Box, float]]:
+    """Predict on overlapping tiles and return globally deduplicated detections."""
+    import numpy as np
+
+    detections: list[tuple[Box, float]] = []
+    height, width = image.shape[:2]
+    for y_offset in tile_positions(height, tile_size, overlap):
+        for x_offset in tile_positions(width, tile_size, overlap):
+            tile = np.zeros((tile_size, tile_size, 3), dtype=image.dtype)
+            crop = image[y_offset:min(height, y_offset + tile_size), x_offset:min(width, x_offset + tile_size)]
+            tile[:crop.shape[0], :crop.shape[1]] = crop
+            result = model.predict(tile, conf=confidence, verbose=False)[0]
+            for xyxy, score, class_id in zip(result.boxes.xyxy.cpu().numpy(), result.boxes.conf.cpu().numpy(), result.boxes.cls.cpu().numpy()):
+                if int(class_id) != 0:
+                    continue
+                detections.append((Box(float(xyxy[0] + x_offset), float(xyxy[1] + y_offset),
+                                       float(xyxy[2] + x_offset), float(xyxy[3] + y_offset)), float(score)))
+    return nms(detections, nms_iou)
+
+
+def pseudo_label(args: argparse.Namespace) -> None:
+    """Generate editable full-image LabelMe JSON pseudo-labels from an Ultralytics model."""
+    import cv2
+    import numpy as np
+    from ultralytics import YOLO
+
+    source_dir, output_dir = Path(args.source_dir), Path(args.output_dir)
+    image_paths = sorted(path for path in source_dir.iterdir() if path.suffix.lower() in IMAGE_EXTENSIONS)
+    if not image_paths:
+        raise ValueError(f"No supported images found in {source_dir}")
+    model = YOLO(args.weights)
+    image_dir, labelme_dir = output_dir / "images", output_dir / "labelme"
+    image_dir.mkdir(parents=True, exist_ok=True)
+    labelme_dir.mkdir(parents=True, exist_ok=True)
+    visualization_dir = output_dir / "visualizations"
+    visualization_dir.mkdir(parents=True, exist_ok=True)
+    metadata_path = output_dir / "metadata.jsonl"
+    csv_path = output_dir / "detections.csv"
+    with metadata_path.open("w", encoding="utf-8") as metadata_handle, csv_path.open("w", newline="", encoding="utf-8") as csv_handle:
+        writer = csv.DictWriter(csv_handle, fieldnames=["image", "id", "x1", "y1", "x2", "y2", "confidence"])
+        writer.writeheader()
+        for image_path in image_paths:
+            image = cv2.imread(str(image_path))
+            if image is None:
+                print(f"Skipping unreadable image: {image_path}")
+                continue
+            height, width = image.shape[:2]
+            detections = tiled_predictions(model, image, args.tile_size, args.overlap, args.confidence, args.nms_iou)
+            shapes = []
+            for index, (box, score) in enumerate(detections, start=1):
+                clipped = Box(max(0.0, box.x1), max(0.0, box.y1), min(float(width), box.x2), min(float(height), box.y2))
+                if clipped.width <= 0 or clipped.height <= 0:
+                    continue
+                shapes.append(labelme_shape(clipped, args.class_label, score))
+                writer.writerow({"image": image_path.name, "id": index, **asdict(clipped), "confidence": f"{score:.6f}"})
+                cv2.rectangle(image, (round(clipped.x1), round(clipped.y1)), (round(clipped.x2), round(clipped.y2)), (0, 255, 0), 2)
+                cv2.putText(image, f"{index}:{score:.2f}", (round(clipped.x1), max(15, round(clipped.y1) - 4)), cv2.FONT_HERSHEY_SIMPLEX, 0.45, (0, 255, 0), 1)
+            shutil.copy2(image_path, image_dir / image_path.name)
+            shutil.copy2(image_path, labelme_dir / image_path.name)
+            labelme_data = {"version": "5.3.1", "flags": {}, "shapes": shapes,
+                            "imagePath": image_path.name, "imageData": None,
+                            "imageHeight": height, "imageWidth": width}
+            json_path = labelme_dir / f"{image_path.stem}.json"
+            json_path.write_text(json.dumps(labelme_data, indent=2), encoding="utf-8")
+            cv2.imwrite(str(visualization_dir / image_path.name), image)
+            metadata_handle.write(json.dumps({"image": str(image_path), "labelme_json": str(json_path),
+                                               "visualization": str(visualization_dir / image_path.name),
+                                               "detections": len(shapes), "confidence": args.confidence,
+                                               "tile_size": args.tile_size, "overlap": args.overlap,
+                                               "nms_iou": args.nms_iou}) + "\n")
+    print(f"Wrote editable LabelMe pseudo-labels for {len(image_paths)} images to {labelme_dir}")
+
+
 def infer(args: argparse.Namespace) -> None:
     import cv2
     import numpy as np
@@ -357,6 +444,15 @@ def build_parser() -> argparse.ArgumentParser:
     inference.add_argument("--nms-iou", type=float, default=0.5)
     add_common_tiling_arguments(inference)
     inference.set_defaults(handler=infer)
+    pseudo = commands.add_parser("pseudo-label", help="Create editable LabelMe JSON predictions for unlabeled images.")
+    pseudo.add_argument("--weights", required=True)
+    pseudo.add_argument("--source-dir", default=DEFAULT_ROOT / "data" / "unlabeled_pool", type=Path)
+    pseudo.add_argument("--output-dir", default=DEFAULT_ROOT / "data" / "pseudo_labels" / "iter1", type=Path)
+    pseudo.add_argument("--class-label", default="Protein Crystal")
+    pseudo.add_argument("--confidence", type=float, default=0.15)
+    pseudo.add_argument("--nms-iou", type=float, default=0.5)
+    add_common_tiling_arguments(pseudo)
+    pseudo.set_defaults(handler=pseudo_label)
     return parser
 
 
