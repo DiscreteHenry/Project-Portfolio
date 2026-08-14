@@ -1,0 +1,6490 @@
+{
+  "version": "7.0.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          43.86002691790043,
+          45.22207267833108
+        ],
+        [
+          55.70390309555847,
+          59.21938088829075
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          69.70121130551826,
+          16.150740242261143
+        ],
+        [
+          84.77523553162848,
+          29.071332436069998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          69.70121130551826,
+          61.37281292059219
+        ],
+        [
+          78.31493943472407,
+          74.29340511440114
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          135.3808882907133,
+          124.89905787348589
+        ],
+        [
+          148.3014804845222,
+          142.12651413189775
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          102.00269179004044,
+          158.27725437415884
+        ],
+        [
+          114.92328398384922,
+          174.42799461641994
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          72.93135935397032,
+          167.9676985195155
+        ],
+        [
+          90.15881561238223,
+          186.27187079407807
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          35.246298788694446,
+          151.8169582772544
+        ],
+        [
+          49.243606998654116,
+          164.73755047106326
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          114.92328398384922,
+          206.72947510094215
+        ],
+        [
+          134.30417227456263,
+          219.65006729475107
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          125.6904441453566,
+          194.885598923284
+        ],
+        [
+          146.14804845222073,
+          209.95962314939436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          145.07133243607007,
+          220.72678331090174
+        ],
+        [
+          156.9152086137281,
+          231.49394347240914
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          99.84925975773888,
+          244.41453566621806
+        ],
+        [
+          122.46029609690441,
+          260.5652759084792
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          148.3014804845222,
+          332.70524899057887
+        ],
+        [
+          135.3808882907133,
+          342.3956931359355
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          74.0080753701211,
+          333.78196500672954
+        ],
+        [
+          57.85733512785998,
+          346.70255720053837
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          54.627187079407804,
+          334.8586810228802
+        ],
+        [
+          40.629878869448135,
+          348.85598923284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          142.91790040376844,
+          426.37954239569314
+        ],
+        [
+          127.8438761776581,
+          443.60699865410504
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          24.479138627187012,
+          399.46164199192464
+        ],
+        [
+          5.098250336473768,
+          415.61238223418576
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          43.86002691790043,
+          396.23149394347246
+        ],
+        [
+          32.016150740242324,
+          410.22880215343207
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          47.090174966352606,
+          412.3822341857336
+        ],
+        [
+          34.16958277254366,
+          425.3028263795424
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          57.85733512785998,
+          417.76581426648727
+        ],
+        [
+          43.86002691790043,
+          429.60969044414543
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          86.92866756392999,
+          413.4589502018843
+        ],
+        [
+          72.93135935397032,
+          427.4562584118439
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          94.46567967698513,
+          417.76581426648727
+        ],
+        [
+          83.69851951547776,
+          429.60969044414543
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          112.76985195154782,
+          442.53028263795426
+        ],
+        [
+          96.61911170928676,
+          456.5275908479139
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          79.3916554508748,
+          483.4454912516824
+        ],
+        [
+          65.39434724091524,
+          498.51951547779277
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          44.9367429340511,
+          485.5989232839839
+        ],
+        [
+          29.862718707940758,
+          503.9030955585465
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          103.07940780619111,
+          520.0538358008076
+        ],
+        [
+          86.92866756392999,
+          534.0511440107672
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          79.3916554508748,
+          530.820995962315
+        ],
+        [
+          61.08748317631216,
+          545.8950201884255
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          124.61372812920592,
+          502.8263795423957
+        ],
+        [
+          107.38627187079413,
+          516.8236877523553
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          121.38358008075363,
+          516.8236877523553
+        ],
+        [
+          106.30955585464329,
+          530.820995962315
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          126.76716016150738,
+          552.3553162853298
+        ],
+        [
+          111.69313593539704,
+          563.1224764468371
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          23.402422611036286,
+          540.5114401076718
+        ],
+        [
+          10.481830417227457,
+          554.5087483176312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          29.862718707940758,
+          567.4293405114403
+        ],
+        [
+          8.328398384925947,
+          580.3499327052491
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          27.709286675639305,
+          578.1965006729476
+        ],
+        [
+          11.558546433378126,
+          588.9636608344551
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          37.39973082099601,
+          586.8102288021535
+        ],
+        [
+          15.865410497981145,
+          597.5773889636608
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          93.3889636608344,
+          593.2705248990579
+        ],
+        [
+          74.0080753701211,
+          610.4979811574699
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          56.78061911170926,
+          610.4979811574699
+        ],
+        [
+          37.39973082099601,
+          622.3418573351279
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          111.69313593539704,
+          629.8788694481831
+        ],
+        [
+          95.54239569313592,
+          642.7994616419921
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          68.62449528936742,
+          635.2624495289367
+        ],
+        [
+          53.550471063257135,
+          649.2597577388964
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          56.78061911170926,
+          634.1857335127861
+        ],
+        [
+          42.7833109017497,
+          648.1830417227458
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          36.32301480484517,
+          655.7200538358009
+        ],
+        [
+          21.248990578734833,
+          668.6406460296098
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          132.15074024226107,
+          663.257065948856
+        ],
+        [
+          111.69313593539704,
+          675.1009421265143
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          133.2274562584118,
+          674.0242261103635
+        ],
+        [
+          122.46029609690441,
+          686.9448183041723
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          63.24091520861367,
+          811.8438761776583
+        ],
+        [
+          49.243606998654116,
+          825.841184387618
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          57.85733512785998,
+          800.0000000000002
+        ],
+        [
+          47.090174966352606,
+          812.920592193809
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          49.243606998654116,
+          798.9232839838495
+        ],
+        [
+          37.39973082099601,
+          810.7671601615077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          39.55316285329741,
+          803.2301480484525
+        ],
+        [
+          23.402422611036286,
+          819.3808882907135
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          19.095558546433324,
+          798.9232839838495
+        ],
+        [
+          4.021534320322985,
+          810.7671601615077
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          142.91790040376844,
+          864.6029609690447
+        ],
+        [
+          128.92059219380894,
+          877.5235531628533
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          153.68506056527588,
+          866.7563930013459
+        ],
+        [
+          139.68775235531638,
+          881.8304172274565
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          109.53970390309547,
+          913.055181695828
+        ],
+        [
+          94.46567967698513,
+          930.2826379542398
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          47.090174966352606,
+          920.5921938088829
+        ],
+        [
+          32.016150740242324,
+          936.7429340511441
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          32.016150740242324,
+          909.8250336473756
+        ],
+        [
+          19.095558546433324,
+          921.6689098250339
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          42.7833109017497,
+          958.2772543741588
+        ],
+        [
+          26.632570659488636,
+          975.5047106325708
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          98.7725437415881,
+          966.8909825033649
+        ],
+        [
+          85.85195154777932,
+          985.1951547779273
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          147.2247644683714,
+          995.9623149394347
+        ],
+        [
+          133.2274562584118,
+          1009.9596231493945
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          209.67429340511438,
+          2.153432032301492
+        ],
+        [
+          190.29340511440103,
+          12.920592193808895
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          297.9650067294751,
+          11.843876177658158
+        ],
+        [
+          288.2745625841184,
+          24.764468371467032
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          220.44145356662182,
+          74.29340511440114
+        ],
+        [
+          205.36742934051142,
+          86.13728129205926
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          303.3485868102287,
+          96.90444145356666
+        ],
+        [
+          290.4279946164199,
+          107.67160161507407
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          258.12651413189775,
+          63.526244952893734
+        ],
+        [
+          240.8990578734858,
+          74.29340511440114
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          251.66621803499328,
+          55.989232839838486
+        ],
+        [
+          237.6689098250336,
+          66.75639300134588
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          201.0605652759084,
+          89.36742934051149
+        ],
+        [
+          183.8331090174966,
+          104.44145356662187
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          209.67429340511438,
+          81.83041722745628
+        ],
+        [
+          198.907133243607,
+          95.82772543741595
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          201.0605652759084,
+          185.19515477792734
+        ],
+        [
+          189.21668909825036,
+          200.2691790040377
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          254.89636608344546,
+          206.72947510094215
+        ],
+        [
+          235.51547779273216,
+          220.72678331090174
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          166.60565275908476,
+          158.27725437415884
+        ],
+        [
+          152.6083445491251,
+          173.35127860026918
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          308.73216689098246,
+          235.8008075370122
+        ],
+        [
+          294.7348586810229,
+          248.72139973082102
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          220.44145356662182,
+          262.7187079407807
+        ],
+        [
+          201.0605652759084,
+          275.6393001345895
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          198.907133243607,
+          283.17631224764483
+        ],
+        [
+          183.8331090174966,
+          296.09690444145366
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          197.83041722745622,
+          296.09690444145366
+        ],
+        [
+          185.98654104979806,
+          307.9407806191117
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          308.73216689098246,
+          291.79004037685064
+        ],
+        [
+          293.65814266487206,
+          304.71063257065964
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          215.05787348586807,
+          325.1682368775236
+        ],
+        [
+          202.13728129205919,
+          341.3189771197847
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          226.90174966352623,
+          340.24226110363395
+        ],
+        [
+          213.98115746971735,
+          352.0861372812921
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          241.97577388963663,
+          344.54912516823697
+        ],
+        [
+          226.90174966352623,
+          358.54643337819664
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          274.27725437415876,
+          358.54643337819664
+        ],
+        [
+          259.2032301480485,
+          370.3903095558548
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          265.66352624495283,
+          367.16016150740245
+        ],
+        [
+          250.58950201884244,
+          381.1574697173622
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          252.742934051144,
+          375.7738896366085
+        ],
+        [
+          239.82234185733506,
+          389.771197846568
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          316.26917900403765,
+          339.1655450874833
+        ],
+        [
+          302.2718707940781,
+          353.16285329744295
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          187.06325706594885,
+          429.60969044414543
+        ],
+        [
+          173.06594885598923,
+          444.68371467025577
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          175.2193808882907,
+          411.3055181695828
+        ],
+        [
+          160.14535666218035,
+          426.37954239569314
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          275.3539703903096,
+          461.9111709286676
+        ],
+        [
+          263.5100942126514,
+          476.98519515477795
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          269.97039030955585,
+          511.4401076716016
+        ],
+        [
+          255.97308209959618,
+          522.207267833109
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          233.3620457604306,
+          527.5908479138627
+        ],
+        [
+          215.05787348586807,
+          542.6648721399731
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          239.82234185733506,
+          553.4320323014806
+        ],
+        [
+          225.8250336473755,
+          567.4293405114403
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          198.907133243607,
+          549.1251682368776
+        ],
+        [
+          182.75639300134588,
+          562.0457604306866
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          164.45222072678325,
+          178.7348586810229
+        ],
+        [
+          151.53162853297442,
+          192.73216689098257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          345.3405114401077,
+          66.75639300134588
+        ],
+        [
+          329.1897711978466,
+          82.90713324360706
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          416.40376850605645,
+          21.534320323014843
+        ],
+        [
+          404.55989232839835,
+          36.60834454912517
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          433.6312247644684,
+          51.68236877523558
+        ],
+        [
+          421.7873485868102,
+          65.67967698519517
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          402.4064602960969,
+          104.44145356662187
+        ],
+        [
+          390.5625841184388,
+          120.59219380888294
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          450.85868102288015,
+          175.50471063257066
+        ],
+        [
+          441.1682368775236,
+          188.42530282637955
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          427.1709286675638,
+          231.49394347240914
+        ],
+        [
+          408.86675639300125,
+          247.64468371467032
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          380.872139973082,
+          253.02826379542404
+        ],
+        [
+          355.03095558546426,
+          267.0255720053837
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          360.414535666218,
+          237.95423956931361
+        ],
+        [
+          345.3405114401077,
+          251.95154777927328
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          330.2664872139972,
+          251.95154777927328
+        ],
+        [
+          311.96231493943463,
+          265.94885598923287
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          414.250336473755,
+          271.33243606998656
+        ],
+        [
+          401.32974427994617,
+          283.17631224764483
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          428.24764468371467,
+          310.09421265141333
+        ],
+        [
+          406.7133243606999,
+          324.0915208613728
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          454.0888290713323,
+          306.86406460296104
+        ],
+        [
+          441.1682368775236,
+          317.63122476446847
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          464.8559892328398,
+          318.70794078061914
+        ],
+        [
+          450.85868102288015,
+          330.5518169582773
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          418.557200538358,
+          338.08882907133255
+        ],
+        [
+          405.6366083445491,
+          351.0094212651413
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          407.7900403768505,
+          318.70794078061914
+        ],
+        [
+          390.5625841184388,
+          331.62853297442814
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          407.7900403768505,
+          306.86406460296104
+        ],
+        [
+          393.79273216689097,
+          321.9380888290715
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          379.7954239569314,
+          383.31090174966357
+        ],
+        [
+          367.9515477792732,
+          401.61507402422615
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          344.2637954239569,
+          379.0040376850606
+        ],
+        [
+          327.03633916554503,
+          393.00134589502017
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          498.234185733513,
+          269.17900403768516
+        ],
+        [
+          481.00672947510094,
+          282.099596231494
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          498.234185733513,
+          333.78196500672954
+        ],
+        [
+          481.00672947510094,
+          346.70255720053837
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          553.1467025572006,
+          306.86406460296104
+        ],
+        [
+          538.0726783310902,
+          324.0915208613728
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          589.755047106326,
+          233.64737550471065
+        ],
+        [
+          574.6810228802153,
+          251.95154777927328
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          583.2947510094211,
+          205.6527590847914
+        ],
+        [
+          562.8371467025574,
+          219.65006729475107
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          422.86406460296104,
+          456.5275908479139
+        ],
+        [
+          447.62853297442797,
+          472.67833109017505
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          461.62584118438764,
+          433.9165545087484
+        ],
+        [
+          475.6231493943472,
+          446.8371467025572
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          467.00942126514127,
+          454.3741588156124
+        ],
+        [
+          484.23687752355323,
+          473.7550471063257
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          465.93270524899077,
+          501.74966352624494
+        ],
+        [
+          477.77658142664865,
+          513.5935397039032
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          492.85060565275927,
+          504.97981157469724
+        ],
+        [
+          509.0013458950204,
+          521.1305518169584
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          426.0942126514132,
+          535.1278600269181
+        ],
+        [
+          439.0148048452223,
+          548.0484522207269
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          458.39569313593535,
+          551.2786002691792
+        ],
+        [
+          474.54643337819647,
+          567.4293405114403
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          443.32166890982495,
+          567.4293405114403
+        ],
+        [
+          455.1655450874834,
+          583.5800807537014
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          380.872139973082,
+          569.5827725437416
+        ],
+        [
+          364.721399730821,
+          584.6567967698519
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          404.55989232839835,
+          538.3580080753701
+        ],
+        [
+          385.17900403768505,
+          555.585464333782
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          427.1709286675638,
+          608.3445491251682
+        ],
+        [
+          406.7133243606999,
+          622.3418573351279
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          386.2557200538358,
+          621.2651413189773
+        ],
+        [
+          367.9515477792732,
+          636.3391655450876
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          384.1022880215343,
+          632.0323014804848
+        ],
+        [
+          365.79811574697163,
+          647.1063257065949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          465.93270524899077,
+          634.1857335127861
+        ],
+        [
+          449.78196500672965,
+          647.1063257065949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          475.6231493943472,
+          628.8021534320324
+        ],
+        [
+          461.62584118438764,
+          641.7227456258413
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          348.5706594885599,
+          670.7940780619111
+        ],
+        [
+          330.2664872139972,
+          681.5612382234185
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          455.1655450874834,
+          677.2543741588158
+        ],
+        [
+          439.0148048452223,
+          688.0215343203232
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          468.0861372812921,
+          684.7913862718709
+        ],
+        [
+          450.85868102288015,
+          698.7886944818306
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          471.3162853297445,
+          675.1009421265143
+        ],
+        [
+          454.0888290713323,
+          686.9448183041723
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          359.3378196500673,
+          695.5585464333784
+        ],
+        [
+          344.2637954239569,
+          711.7092866756395
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          389.48586810228795,
+          718.1695827725439
+        ],
+        [
+          369.02826379542404,
+          733.2436069986544
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          257.0497981157469,
+          686.9448183041723
+        ],
+        [
+          240.8990578734858,
+          700.9421265141322
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          195.6769851951547,
+          627.7254374158815
+        ],
+        [
+          185.98654104979806,
+          640.6460296096905
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          205.36742934051142,
+          604.0376850605654
+        ],
+        [
+          195.6769851951547,
+          616.9582772543741
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          190.29340511440103,
+          600.807537012113
+        ],
+        [
+          170.91251682368772,
+          615.8815612382236
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          193.52355316285326,
+          582.5033647375506
+        ],
+        [
+          179.5262449528936,
+          601.8842530282639
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          231.20861372812925,
+          745.0874831763124
+        ],
+        [
+          213.98115746971735,
+          759.0847913862718
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          255.97308209959618,
+          761.2382234185735
+        ],
+        [
+          240.8990578734858,
+          773.0820995962317
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          306.5787348586809,
+          780.6191117092867
+        ],
+        [
+          286.121130551817,
+          797.8465679676988
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          225.8250336473755,
+          826.9179004037688
+        ],
+        [
+          210.75100942126517,
+          844.1453566621806
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          176.2960969044414,
+          745.0874831763124
+        ],
+        [
+          161.22207267833107,
+          763.3916554508751
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          417.4804845222073,
+          764.4683714670256
+        ],
+        [
+          401.32974427994617,
+          776.312247644684
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          473.46971736204586,
+          702.0188425302829
+        ],
+        [
+          459.4724091520861,
+          714.9394347240917
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          376.565275908479,
+          817.2274562584121
+        ],
+        [
+          361.4912516823687,
+          831.2247644683716
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          364.721399730821,
+          800.0000000000002
+        ],
+        [
+          350.72409152086135,
+          813.9973082099599
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          443.32166890982495,
+          823.6877523553163
+        ],
+        [
+          429.3243606998654,
+          837.6850605652762
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          463.7792732166891,
+          821.5343203230151
+        ],
+        [
+          444.398384925976,
+          838.7617765814268
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          472.393001345895,
+          795.6931359353972
+        ],
+        [
+          461.62584118438764,
+          816.1507402422613
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          229.05518169582768,
+          878.6002691790043
+        ],
+        [
+          213.98115746971735,
+          893.6742934051144
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          310.8855989232839,
+          914.1318977119787
+        ],
+        [
+          290.4279946164199,
+          931.3593539703903
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          304.42530282637955,
+          937.8196500672949
+        ],
+        [
+          286.121130551817,
+          950.7402422611037
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          274.27725437415876,
+          989.5020188425303
+        ],
+        [
+          259.2032301480485,
+          1001.3458950201884
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          253.81965006729473,
+          991.6554508748319
+        ],
+        [
+          237.6689098250336,
+          1008.8829071332436
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          203.2139973082099,
+          1011.0363391655452
+        ],
+        [
+          184.90982503364734,
+          1026.1103633916555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          351.8008075370121,
+          901.2113055181698
+        ],
+        [
+          338.88021534320313,
+          916.2853297442801
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          380.872139973082,
+          869.9865410497983
+        ],
+        [
+          363.6446837146703,
+          883.983849259758
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          362.56796769851945,
+          900.1345895020191
+        ],
+        [
+          347.49394347240917,
+          916.2853297442801
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          400.25302826379533,
+          919.5154777927324
+        ],
+        [
+          381.94885598923275,
+          933.512786002692
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          440.09152086137277,
+          869.9865410497983
+        ],
+        [
+          427.1709286675638,
+          882.907133243607
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          387.3324360699865,
+          961.5074024226112
+        ],
+        [
+          372.2584118438762,
+          976.5814266487214
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          440.09152086137277,
+          1000.2691790040377
+        ],
+        [
+          422.86406460296104,
+          1015.3432032301482
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          464.8559892328398,
+          999.1924629878871
+        ],
+        [
+          477.77658142664865,
+          1012.1130551816958
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          499.3109017496635,
+          716.0161507402422
+        ],
+        [
+          483.1601615074024,
+          728.9367429340514
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          517.615074024226,
+          749.3943472409154
+        ],
+        [
+          504.69448183041715,
+          764.4683714670256
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          570.3741588156124,
+          747.240915208614
+        ],
+        [
+          557.4535666218037,
+          763.3916554508751
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          583.2947510094211,
+          853.8358008075373
+        ],
+        [
+          568.2207267833112,
+          866.7563930013459
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          488.54374158815614,
+          882.907133243607
+        ],
+        [
+          476.69986541049815,
+          900.1345895020191
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          513.3082099596231,
+          899.0578734858681
+        ],
+        [
+          495.0040376850606,
+          911.9784656796771
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          559.6069986541052,
+          886.1372812920595
+        ],
+        [
+          541.3028263795427,
+          904.4414535666218
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          615.5962314939434,
+          922.7456258411846
+        ],
+        [
+          600.5222072678332,
+          937.8196500672949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          615.5962314939434,
+          947.5100942126514
+        ],
+        [
+          597.2920592193809,
+          963.6608344549126
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          558.5302826379543,
+          984.1184387617767
+        ],
+        [
+          545.6096904441454,
+          998.1157469717363
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          552.06998654105,
+          974.4279946164199
+        ],
+        [
+          539.149394347241,
+          991.6554508748319
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          544.5329744279945,
+          967.9676985195156
+        ],
+        [
+          526.2288021534321,
+          984.1184387617767
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          524.0753701211304,
+          964.7375504710634
+        ],
+        [
+          505.771197846568,
+          984.1184387617767
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          643.590847913863,
+          983.041722745626
+        ],
+        [
+          634.9771197846569,
+          1002.4226110363393
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          529.4589502018841,
+          696.6352624495291
+        ],
+        [
+          512.2314939434725,
+          710.6325706594886
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          522.9986541049798,
+          649.2597577388964
+        ],
+        [
+          512.2314939434725,
+          663.257065948856
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          564.9905787348587,
+          632.0323014804848
+        ],
+        [
+          552.06998654105,
+          642.7994616419921
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          567.1440107671601,
+          638.4925975773889
+        ],
+        [
+          552.06998654105,
+          651.4131897711978
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          590.8317631224763,
+          592.1938088829071
+        ],
+        [
+          577.9111709286676,
+          604.0376850605654
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          608.0592193808884,
+          564.199192462988
+        ],
+        [
+          596.2153432032301,
+          580.3499327052491
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          570.3741588156124,
+          579.2732166890983
+        ],
+        [
+          554.2234185733514,
+          591.1170928667565
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          597.2920592193809,
+          638.4925975773889
+        ],
+        [
+          585.4481830417228,
+          652.4899057873487
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          585.4481830417228,
+          473.7550471063257
+        ],
+        [
+          571.450874831763,
+          488.8290713324361
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          546.6864064602962,
+          488.8290713324361
+        ],
+        [
+          533.7658142664873,
+          503.9030955585465
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          564.9905787348587,
+          489.90578734858684
+        ],
+        [
+          543.4562584118439,
+          504.97981157469724
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          563.9138627187078,
+          338.08882907133255
+        ],
+        [
+          549.9165545087483,
+          347.7792732166892
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          575.7577388963662,
+          343.4724091520863
+        ],
+        [
+          555.300134589502,
+          356.393001345895
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          623.1332436069986,
+          301.48048452220735
+        ],
+        [
+          609.135935397039,
+          314.4010767160162
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          629.5935397039032,
+          314.4010767160162
+        ],
+        [
+          615.5962314939434,
+          326.2449528936744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          550.9932705248989,
+          226.11036339165545
+        ],
+        [
+          532.6890982503364,
+          239.03095558546437
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          536.9959623149393,
+          171.19784656796773
+        ],
+        [
+          518.6917900403769,
+          183.04172274562583
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          575.7577388963662,
+          150.74024226110365
+        ],
+        [
+          559.6069986541052,
+          163.66083445491256
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          613.4427994616422,
+          162.5841184387618
+        ],
+        [
+          598.3687752355315,
+          176.58142664872142
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          557.4535666218037,
+          152.89367429340516
+        ],
+        [
+          542.3795423956931,
+          169.04441453566625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          559.6069986541052,
+          178.7348586810229
+        ],
+        [
+          542.3795423956931,
+          191.65545087483179
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          544.5329744279945,
+          151.8169582772544
+        ],
+        [
+          527.3055181695829,
+          169.04441453566625
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          468.0861372812921,
+          209.95962314939436
+        ],
+        [
+          454.0888290713323,
+          222.88021534320328
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          475.6231493943472,
+          1.0767160161507556
+        ],
+        [
+          465.93270524899077,
+          11.843876177658158
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          481.00672947510094,
+          12.920592193808895
+        ],
+        [
+          464.8559892328398,
+          26.917900403768545
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          619.9030955585465,
+          5.383580080753701
+        ],
+        [
+          602.6756393001347,
+          15.074024226110367
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          650.0511440107671,
+          38.761776581426666
+        ],
+        [
+          632.8236877523555,
+          53.83580080753705
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          662.971736204576,
+          6.4602960969044565
+        ],
+        [
+          647.8977119784656,
+          20.45760430686407
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          587.6016150740243,
+          282.099596231494
+        ],
+        [
+          573.6043068640647,
+          296.09690444145366
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          549.9165545087483,
+          348.85598923284
+        ],
+        [
+          533.7658142664873,
+          362.8532974427995
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          656.5114401076717,
+          808.6137281292062
+        ],
+        [
+          668.3553162853298,
+          818.3041722745626
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          703.8869448183041,
+          810.7671601615077
+        ],
+        [
+          715.7308209959624,
+          823.6877523553163
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          505.771197846568,
+          541.5881561238224
+        ],
+        [
+          491.7738896366083,
+          555.585464333782
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          654.3580080753702,
+          148.58681022880216
+        ],
+        [
+          640.3606998654107,
+          159.35397039030957
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          665.1251682368777,
+          201.34589502018846
+        ],
+        [
+          652.2045760430688,
+          214.26648721399738
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          704.9636608344549,
+          251.95154777927328
+        ],
+        [
+          688.8129205921939,
+          265.94885598923287
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          746.9555854643338,
+          277.7927321668911
+        ],
+        [
+          730.8048452220726,
+          289.63660834454924
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          780.3337819650069,
+          279.94616419919254
+        ],
+        [
+          765.2597577388965,
+          297.17362045760433
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          686.6594885598925,
+          319.78465679676987
+        ],
+        [
+          673.7388963660835,
+          334.8586810228802
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          707.1170928667564,
+          317.63122476446847
+        ],
+        [
+          690.9663526244951,
+          331.62853297442814
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          697.4266487213999,
+          309.0174966352625
+        ],
+        [
+          681.2759084791387,
+          325.1682368775236
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          666.2018842530283,
+          383.31090174966357
+        ],
+        [
+          648.9744279946167,
+          397.30820995962324
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          715.7308209959624,
+          362.8532974427995
+        ],
+        [
+          703.8869448183041,
+          375.7738896366085
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          648.9744279946167,
+          409.1520861372813
+        ],
+        [
+          633.9004037685061,
+          423.14939434724096
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          639.2839838492598,
+          422.07267833109023
+        ],
+        [
+          631.7469717362046,
+          433.9165545087484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          736.1884253028263,
+          450.06729475100946
+        ],
+        [
+          728.6514131897711,
+          460.8344549125169
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          746.9555854643338,
+          480.2153432032302
+        ],
+        [
+          734.0349932705249,
+          492.05921938088835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          766.3364737550471,
+          513.5935397039032
+        ],
+        [
+          748.0323014804846,
+          526.514131897712
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          743.7254374158815,
+          442.53028263795426
+        ],
+        [
+          728.6514131897711,
+          453.29744279946163
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          731.8815612382234,
+          346.70255720053837
+        ],
+        [
+          720.0376850605653,
+          358.54643337819664
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          734.0349932705249,
+          207.80619111709288
+        ],
+        [
+          720.0376850605653,
+          218.5733512786004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          742.6487213997309,
+          198.11574697173626
+        ],
+        [
+          724.3445491251682,
+          208.88290713324366
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          734.0349932705249,
+          170.12113055181698
+        ],
+        [
+          717.8842530282636,
+          180.88829071332438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          766.3364737550471,
+          162.5841184387618
+        ],
+        [
+          752.3391655450876,
+          177.65814266487214
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          780.3337819650069,
+          125.97577388963664
+        ],
+        [
+          759.8761776581428,
+          137.81965006729476
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          772.7967698519517,
+          137.81965006729476
+        ],
+        [
+          758.7994616419921,
+          151.8169582772544
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          752.3391655450876,
+          109.82503364737553
+        ],
+        [
+          741.5720053835801,
+          124.89905787348589
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          764.1830417227457,
+          105.51816958277259
+        ],
+        [
+          748.0323014804846,
+          113.05518169582773
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          755.5693135935396,
+          97.98115746971737
+        ],
+        [
+          737.2651413189772,
+          110.90174966352626
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          809.4051144010766,
+          69.98654104979815
+        ],
+        [
+          795.4078061911171,
+          80.75370121130555
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          816.942126514132,
+          48.45222072678335
+        ],
+        [
+          805.0982503364739,
+          59.21938088829075
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          851.3970390309557,
+          81.83041722745628
+        ],
+        [
+          834.1695827725439,
+          95.82772543741595
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          853.5504710632572,
+          107.67160161507407
+        ],
+        [
+          839.5531628532976,
+          118.43876177658143
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          847.0901749663526,
+          149.66352624495292
+        ],
+        [
+          834.1695827725439,
+          161.50740242261105
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          813.7119784656797,
+          167.9676985195155
+        ],
+        [
+          795.4078061911171,
+          180.88829071332438
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          792.177658142665,
+          180.88829071332438
+        ],
+        [
+          782.4872139973081,
+          193.80888290713324
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          824.4791386271872,
+          211.03633916554512
+        ],
+        [
+          813.7119784656797,
+          223.9569313593541
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          904.1561238223419,
+          164.73755047106326
+        ],
+        [
+          892.3122476446838,
+          177.65814266487214
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          912.7698519515479,
+          156.12382234185733
+        ],
+        [
+          899.849259757739,
+          172.27456258411843
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          905.2328398384927,
+          128.1292059219381
+        ],
+        [
+          892.3122476446838,
+          138.8963660834455
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          913.8465679676985,
+          132.43606998654107
+        ],
+        [
+          900.9259757738896,
+          143.20323014804845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          942.9179004037685,
+          80.75370121130555
+        ],
+        [
+          925.6904441453569,
+          94.7510094212652
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          938.6110363391656,
+          136.74293405114403
+        ],
+        [
+          922.4602960969044,
+          150.74024226110365
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          983.8331090174968,
+          37.68506056527595
+        ],
+        [
+          969.835800807537,
+          48.45222072678335
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          993.5235531628532,
+          25.84118438761777
+        ],
+        [
+          974.1426648721401,
+          39.83849259757738
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1004.2907133243607,
+          5.383580080753701
+        ],
+        [
+          987.0632570659488,
+          18.304172274562596
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          989.2166890982505,
+          122.7456258411844
+        ],
+        [
+          975.2193808882907,
+          131.35935397039034
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          963.3755047106326,
+          129.20592193808884
+        ],
+        [
+          943.9946164199193,
+          143.20323014804845
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1009.6742934051144,
+          163.66083445491256
+        ],
+        [
+          995.6769851951549,
+          179.81157469717365
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          908.4629878869448,
+          222.88021534320328
+        ],
+        [
+          894.4656796769852,
+          237.95423956931361
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          829.8627187079408,
+          265.94885598923287
+        ],
+        [
+          813.7119784656797,
+          277.7927321668911
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          862.164199192463,
+          261.64199192463
+        ],
+        [
+          843.8600269179005,
+          278.86944818304187
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          834.1695827725439,
+          286.4064602960969
+        ],
+        [
+          822.3257065948856,
+          302.557200538358
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          852.4737550471064,
+          304.71063257065964
+        ],
+        [
+          839.5531628532976,
+          316.55450874831774
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          824.4791386271872,
+          297.17362045760433
+        ],
+        [
+          809.4051144010766,
+          311.17092866756406
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          808.328398384926,
+          346.70255720053837
+        ],
+        [
+          790.0242261103633,
+          360.69986541049803
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          808.328398384926,
+          372.54374158815614
+        ],
+        [
+          794.3310901749664,
+          384.3876177658143
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          826.6325706594887,
+          358.54643337819664
+        ],
+        [
+          816.942126514132,
+          373.6204576043069
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          820.1722745625841,
+          353.16285329744295
+        ],
+        [
+          806.1749663526246,
+          365.0067294751011
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          832.0161507402424,
+          343.4724091520863
+        ],
+        [
+          818.0188425302827,
+          352.0861372812921
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          905.2328398384927,
+          368.2368775235532
+        ],
+        [
+          889.0820995962315,
+          385.4643337819651
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          939.6877523553164,
+          328.39838492597585
+        ],
+        [
+          922.4602960969044,
+          342.3956931359355
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          923.5370121130552,
+          315.477792732167
+        ],
+        [
+          912.7698519515479,
+          329.4751009421265
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          942.9179004037685,
+          298.25033647375506
+        ],
+        [
+          920.3068640646031,
+          313.32436069986545
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          967.6823687752355,
+          306.86406460296104
+        ],
+        [
+          954.7617765814266,
+          318.70794078061914
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          994.6002691790043,
+          311.17092866756406
+        ],
+        [
+          982.7563930013459,
+          325.1682368775236
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          995.6769851951549,
+          321.9380888290715
+        ],
+        [
+          981.6796769851951,
+          335.935397039031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1002.1372812920592,
+          331.62853297442814
+        ],
+        [
+          985.9865410497982,
+          348.85598923284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1016.134589502019,
+          239.03095558546437
+        ],
+        [
+          1030.1318977119786,
+          257.335127860027
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          522.9986541049798,
+          542.6648721399731
+        ],
+        [
+          510.0780619111709,
+          554.5087483176312
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          777.1036339165546,
+          443.60699865410504
+        ],
+        [
+          763.1063257065948,
+          455.45087483176314
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          766.3364737550471,
+          585.7335127860027
+        ],
+        [
+          753.4158815612384,
+          601.8842530282639
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          759.8761776581428,
+          534.0511440107672
+        ],
+        [
+          742.6487213997309,
+          550.2018842530283
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          824.4791386271872,
+          469.44818304172276
+        ],
+        [
+          809.4051144010766,
+          483.4454912516824
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          791.1009421265142,
+          448.99057873485873
+        ],
+        [
+          776.0269179004038,
+          465.1413189771198
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          852.4737550471064,
+          430.6864064602961
+        ],
+        [
+          838.4764468371468,
+          442.53028263795426
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          837.399730820996,
+          472.67833109017505
+        ],
+        [
+          823.4024226110364,
+          492.05921938088835
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          853.5504710632572,
+          489.90578734858684
+        ],
+        [
+          835.2462987886945,
+          502.8263795423957
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          866.4710632570661,
+          439.3001345895021
+        ],
+        [
+          851.3970390309557,
+          452.2207267833109
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          865.3943472409153,
+          455.45087483176314
+        ],
+        [
+          851.3970390309557,
+          466.2180349932706
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          906.3095558546433,
+          443.60699865410504
+        ],
+        [
+          889.0820995962315,
+          457.6043068640646
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          922.4602960969044,
+          390.84791386271877
+        ],
+        [
+          902.0026917900404,
+          402.69179004037693
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          955.8384925975774,
+          418.842530282638
+        ],
+        [
+          935.3808882907133,
+          433.9165545087484
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          954.7617765814266,
+          443.60699865410504
+        ],
+        [
+          938.6110363391656,
+          458.6810228802154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          925.6904441453569,
+          508.2099596231494
+        ],
+        [
+          911.6931359353971,
+          523.2839838492598
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          946.1480484522208,
+          522.207267833109
+        ],
+        [
+          932.1507402422612,
+          536.2045760430686
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          903.079407806191,
+          529.7442799461644
+        ],
+        [
+          884.7752355316286,
+          544.8183041722746
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          999.983849259758,
+          470.52489905787354
+        ],
+        [
+          983.8331090174968,
+          486.6756393001346
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1023.671601615074,
+          452.2207267833109
+        ],
+        [
+          1011.8277254374161,
+          466.2180349932706
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1027.9784656796771,
+          399.46164199192464
+        ],
+        [
+          1011.8277254374161,
+          413.4589502018843
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1026.9017496635265,
+          528.6675639300134
+        ],
+        [
+          1010.7510094212653,
+          542.6648721399731
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          973.0659488559893,
+          531.8977119784657
+        ],
+        [
+          963.3755047106326,
+          546.9717362045761
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1016.134589502019,
+          556.6621803499329
+        ],
+        [
+          1002.1372812920592,
+          571.7362045760432
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          987.0632570659488,
+          554.5087483176312
+        ],
+        [
+          971.9892328398387,
+          570.6594885598923
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          956.915208613728,
+          564.199192462988
+        ],
+        [
+          940.764468371467,
+          579.2732166890983
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          989.2166890982505,
+          599.7308209959625
+        ],
+        [
+          974.1426648721401,
+          614.8048452220728
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          931.0740242261104,
+          588.9636608344551
+        ],
+        [
+          911.6931359353971,
+          607.2678331090176
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          951.5316285329745,
+          616.9582772543741
+        ],
+        [
+          937.534320323015,
+          632.0323014804848
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1024.7483176312248,
+          600.807537012113
+        ],
+        [
+          1015.057873485868,
+          614.8048452220728
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1020.4414535666217,
+          611.5746971736204
+        ],
+        [
+          1004.2907133243607,
+          621.2651413189773
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          977.3728129205922,
+          668.6406460296098
+        ],
+        [
+          963.3755047106326,
+          679.4078061911172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          942.9179004037685,
+          670.7940780619111
+        ],
+        [
+          923.5370121130552,
+          682.6379542395696
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          847.0901749663526,
+          569.5827725437416
+        ],
+        [
+          834.1695827725439,
+          581.4266487213997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          806.1749663526246,
+          557.7388963660834
+        ],
+        [
+          787.8707940780619,
+          573.8896366083445
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          837.399730820996,
+          635.2624495289367
+        ],
+        [
+          822.3257065948856,
+          647.1063257065949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          863.2409152086138,
+          618.034993270525
+        ],
+        [
+          846.013458950202,
+          630.9555854643339
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          875.084791386272,
+          646.0296096904442
+        ],
+        [
+          861.0874831763124,
+          656.7967698519516
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          872.9313593539705,
+          653.5666218034995
+        ],
+        [
+          858.9340511440109,
+          665.4104979811574
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          902.0026917900404,
+          680.484522207268
+        ],
+        [
+          888.0053835800809,
+          695.5585464333784
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          876.1615074024226,
+          686.9448183041723
+        ],
+        [
+          861.0874831763124,
+          702.0188425302829
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          824.4791386271872,
+          649.2597577388964
+        ],
+        [
+          811.5585464333783,
+          662.1803499327052
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          818.0188425302827,
+          639.5693135935397
+        ],
+        [
+          806.1749663526246,
+          654.64333781965
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          744.8021534320324,
+          660.0269179004038
+        ],
+        [
+          729.728129205922,
+          679.4078061911172
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          797.5612382234187,
+          662.1803499327052
+        ],
+        [
+          791.1009421265142,
+          674.0242261103635
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          922.4602960969044,
+          731.0901749663528
+        ],
+        [
+          906.3095558546433,
+          746.1641991924632
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          900.9259757738896,
+          708.4791386271874
+        ],
+        [
+          882.6218034993271,
+          721.399730820996
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          997.8304172274563,
+          751.547779273217
+        ],
+        [
+          980.6029609690445,
+          765.5450874831765
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          935.3808882907133,
+          770.9286675639303
+        ],
+        [
+          919.2301480484523,
+          782.7725437415884
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          874.0080753701211,
+          829.07133243607
+        ],
+        [
+          849.2436069986541,
+          850.6056527590848
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          809.4051144010766,
+          764.4683714670256
+        ],
+        [
+          796.4845222072679,
+          778.4656796769855
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          794.3310901749664,
+          751.547779273217
+        ],
+        [
+          777.1036339165546,
+          768.7752355316287
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          746.9555854643338,
+          716.0161507402422
+        ],
+        [
+          729.728129205922,
+          731.0901749663528
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          736.1884253028263,
+          716.0161507402422
+        ],
+        [
+          720.0376850605653,
+          727.8600269179007
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          723.2678331090174,
+          735.3970390309559
+        ],
+        [
+          711.4239569313593,
+          749.3943472409154
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          742.6487213997309,
+          747.240915208614
+        ],
+        [
+          728.6514131897711,
+          756.9313593539707
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          757.7227456258413,
+          753.7012113055182
+        ],
+        [
+          740.4952893674295,
+          766.6218034993273
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          777.1036339165546,
+          805.383580080754
+        ],
+        [
+          757.7227456258413,
+          818.3041722745626
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          729.728129205922,
+          834.4549125168237
+        ],
+        [
+          713.577388963661,
+          849.5289367429343
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          736.1884253028263,
+          843.0686406460298
+        ],
+        [
+          724.3445491251682,
+          855.9892328398385
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          774.9502018842531,
+          819.3808882907135
+        ],
+        [
+          763.1063257065948,
+          830.148048452221
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          778.1803499327054,
+          827.9946164199195
+        ],
+        [
+          766.3364737550471,
+          840.9152086137284
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          768.4899057873486,
+          843.0686406460298
+        ],
+        [
+          754.492597577389,
+          858.1426648721401
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          776.0269179004038,
+          847.3755047106328
+        ],
+        [
+          759.8761776581428,
+          861.3728129205922
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          828.7860026917901,
+          866.7563930013459
+        ],
+        [
+          811.5585464333783,
+          880.7537012113058
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          989.2166890982505,
+          881.8304172274565
+        ],
+        [
+          973.0659488559893,
+          899.0578734858681
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1017.2113055181696,
+          896.904441453567
+        ],
+        [
+          998.907133243607,
+          913.055181695828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          949.3781965006729,
+          935.6662180349934
+        ],
+        [
+          933.2274562584118,
+          948.5868102288023
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          899.849259757739,
+          899.0578734858681
+        ],
+        [
+          878.3149394347242,
+          917.3620457604309
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          686.6594885598925,
+          983.041722745626
+        ],
+        [
+          703.8869448183041,
+          998.1157469717363
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          685.5827725437416,
+          994.8855989232841
+        ],
+        [
+          696.3499327052489,
+          1009.9596231493945
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          749.1090174966353,
+          941.0497981157471
+        ],
+        [
+          759.8761776581428,
+          952.8936742934051
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          741.5720053835801,
+          987.3485868102289
+        ],
+        [
+          753.4158815612384,
+          1002.4226110363393
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          760.9528936742934,
+          979.8115746971737
+        ],
+        [
+          750.1857335127861,
+          994.8855989232841
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          867.5477792732167,
+          911.9784656796771
+        ],
+        [
+          853.5504710632572,
+          921.6689098250339
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          868.6244952893674,
+          921.6689098250339
+        ],
+        [
+          852.4737550471064,
+          932.4360699865413
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          917.0767160161508,
+          975.5047106325708
+        ],
+        [
+          899.849259757739,
+          987.3485868102289
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          941.8411843876179,
+          1004.5760430686407
+        ],
+        [
+          926.7671601615075,
+          1021.8034993270526
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          722.1911170928668,
+          939.9730820995964
+        ],
+        [
+          711.4239569313593,
+          949.6635262449529
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          955.8384925975774,
+          808.6137281292062
+        ],
+        [
+          939.6877523553164,
+          821.5343203230151
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          998.907133243607,
+          923.8223418573355
+        ],
+        [
+          987.0632570659488,
+          936.7429340511441
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1011.8277254374161,
+          928.1292059219383
+        ],
+        [
+          997.8304172274563,
+          937.8196500672949
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1007.520861372813,
+          938.8963660834455
+        ],
+        [
+          993.5235531628532,
+          949.6635262449529
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1009.6742934051144,
+          962.5841184387618
+        ],
+        [
+          995.6769851951549,
+          977.6581426648722
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1018.2880215343205,
+          975.5047106325708
+        ],
+        [
+          1002.1372812920592,
+          984.1184387617767
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1016.134589502019,
+          993.8088829071334
+        ],
+        [
+          1003.2139973082099,
+          1003.4993270524899
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "Protein Crystal",
+      "points": [
+        [
+          1023.671601615074,
+          989.5020188425303
+        ],
+        [
+          1031.2086137281292,
+          999.1924629878871
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "Neubauer_10x_Sample13.PNG",
+  "imageData": null,
+  "imageHeight": 1031,
+  "imageWidth": 1032
+}

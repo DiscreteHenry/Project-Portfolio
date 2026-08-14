@@ -71,9 +71,9 @@ def draw_detections(image, masks, draw_boxes=True, draw_outlines=False,
         overlay = cv2.cvtColor(overlay, cv2.COLOR_GRAY2BGR)
 
     n = int(masks.max())
-    box_color = (0, 255, 0)        # green (BGR)
+    box_color = (34, 139, 34)  # forest green (BGR)
     outline_color = (0, 165, 255)  # orange
-    text_color = (0, 255, 0)
+    text_color = (34, 139, 34)
 
     for crystal_id in range(1, n + 1):
         single = (masks == crystal_id).astype(np.uint8)
